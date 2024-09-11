@@ -4,11 +4,11 @@
 
 ## Education
 - **Ph.D., Advanced Materials Engineering** 
-_The University of Science and Technology, Daejeon, South Korea (_2015-2020_) 								       		
+---The University of Science and Technology, Daejeon, South Korea (_2015-2020_) 								       		
 - **M.S., Materials Engineering and Nanotechnology**
-_GIK Institute of Engineering Sciences and Technology, Topi, Pakistan  (_2013-2015_)			        		
+---GIK Institute of Engineering Sciences and Technology, Topi, Pakistan  (_2013-2015_)			        		
 - **B.Sc., Metallurgical and Materials Engineering**
-_Baha-Ud-Din Zakriya University, Multan, Pakistan (_2008-2012_)
+---Baha-Ud-Din Zakriya University, Multan, Pakistan (_2008-2012_)
 
 ## Work Experience
 **Senior Researcher, Korea Institute of Materials Science, South Korea  (_Aug 2022 - Present_)**
