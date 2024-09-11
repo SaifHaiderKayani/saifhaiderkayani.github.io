@@ -1,8 +1,8 @@
 # Materials Scientist
 
-### EDUCATION
-2015-2020
-PhD, Advanced Materials Engineering 
+## EDUCATION
+### 2015-2020
+### PhD, Advanced Materials Engineering 
 
 The University of Science and Technology, Daejeon, South Korea | www.ust.ac.kr
 
