@@ -16,7 +16,7 @@
 - Write papers and present at international and domestic conferences
 - Mentor graduate students and interns with their research work, papers, and thesis writing
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Post-Doctoral Fellow, Gyeongsang National University, South Korea (_Sep 2020 - July 2020)**
 - Research funding proposals and reports writing for national and international organizations
 - Write papers and present at international and domestic conferences
 - Mentor graduate students and interns with their research work, papers, and thesis writing
