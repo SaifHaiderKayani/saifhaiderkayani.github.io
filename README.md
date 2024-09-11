@@ -1,14 +1,8 @@
-# Metallurgist l Electron Microscopist l Corrosion Scientist
+# Materials Scientist
 
-## EDUCATION
-### PhD, Advanced Materials Engineering | 2015-2020
-The University of Science and Technology, Daejeon, South Korea | www.ust.ac.kr
+#### Technical Skills: Sustainable Metallurgy, Electron Microscopy, Corrosion Science
 
-### MS in Materials Engineering and Nanotechnology | 2013-2015
-GIK Institute of Engineering Sciences and Technology, Topi, Pakistan | www.giki.edu.pk
-
-### B.Sc in Metallurgical and Materials Engineering | 2008-2012
-Baha-Ud-Din Zakriya University, Multan, Pakistan | www.bzu.edu.pk
-
-
-## PROFESSIONAL CAREER
+## Education
+- Ph.D., Advanced Materials Engineering | The University of Science and Technology, Daejeon, South Korea (_2015-2020_)								       		
+- M.S., Materials Engineering and Nanotechnology | GIK Institute of Engineering Sciences and Technology, Topi, Pakistan  (_2013-2015_)	 			        		
+- B.Sc., Metallurgical and Materials Engineering  | Baha-Ud-Din Zakriya University, Multan, Pakistan (_2008-2012_)
