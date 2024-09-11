@@ -7,7 +7,7 @@
   The University of Science and Technology, Daejeon, South Korea (_2015-2020_) <br />         		
 - **M.S., Materials Engineering and Nanotechnology** <br />
   GIK Institute of Engineering Sciences and Technology, Topi, Pakistan  (_2013-2015_) <br />  			        		
-- **B.Sc., Metallurgical and Materials Engineering** <br />  
+- **B.Sc., Metallurgical and Materials Engineering** <space> 
   Baha-Ud-Din Zakriya University, Multan, Pakistan (_2008-2012_)  
 
 ## Work Experience
