@@ -13,27 +13,27 @@
 
 <h2> Work Experience </h2>
 
-**Post-doctoral Fellow @ Nanjing university of Science and Technology (_Sep 2025 - Present_)**
+<h2> Post-doctoral Fellow @ Nanjing university of Science and Technology (_Sep 2025 - Present_) </h2>
 - <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
 - <p align="justify"> Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
 
-**Senior Researcher @ Korea Institute of Materials Science (_Aug 2022 - Aug 2025_)**
+<h2> Senior Researcher @ Korea Institute of Materials Science (_Aug 2022 - Aug 2025_) </h2>
 - <p align="justify"> Developing and managing funding proposals for domestic research projects, coordinating cross-functional research initiatives to align with university and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
 - <p align="justify"> Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Published research findings in reputable journals, presented at conferences, and collaborated with researchers and industry partners on shared objectives, and mentored undergraduate and graduate students and interns in research, publications, and thesis writing. </p>
 
-**Senior Researcher @ Gyeongsang National University (_Aug 2020 - July 2022_)**
+<h2> Senior Researcher @ Gyeongsang National University (_Aug 2020 - July 2022_) </h2>
 - <p align="justify"> Developing and managing funding proposals for domestic and international research projects, coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
 - <p align="justify"> Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives, and mentored graduate students and interns in research, publications, and thesis writing. </p>
 
-**Student Researcher @ Korea Institute of Materials Science (_Sep 2015 - Aug 2020_)**
+<h2> Student Researcher @ Korea Institute of Materials Science (_Sep 2015 - Aug 2020_) </h2>
 - <p align="justify"> Developing and coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
 - <p align="justify"> Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives. </p>
 
-**Graduate Assistant @ GIK Institute of Engineering Sciences and Technology, Pakistan (_Jan 2013 - Dec 2015_)**
+<h2> Graduate Assistant @ GIK Institute of Engineering Sciences and Technology, Pakistan (_Jan 2013 - Dec 2015_) </h2>
 - <p align="justify"> Deliver lectures, mentor undergraduate students in lab techniques and experiments, and prepare course-related records and lab manuals.
 - <p align="justify"> Support faculty in experimental research, data collection, and analysis; assist in lecture preparation, grading, and conducting laboratory courses.
 - <p align="justify"> Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events
@@ -51,7 +51,7 @@
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### <p align="justify"> Development of 200℃/250MPa grade composite aluminum casting alloy and brake disc/friction material manufacturing technology. (_2022 - 2026_) </p>
+<h3 align="justify"> Development of 200℃/250MPa grade composite aluminum casting alloy and brake disc/friction material manufacturing technology. (_2022 - 2026_) </h3>
 - Funding: $0.2M
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Jung-Moo Lee          
@@ -61,7 +61,7 @@
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-### <p align="justify"> Development of eco-friendly aluminum material technology to ease impurity regulations. (_2021 - 2026_) </p>
+<h3 align="justify"> Development of eco-friendly aluminum material technology to ease impurity regulations. (_2021 - 2026_) </h3>
 - Funding: $0.9M
 - Ministry of Science and ICT, South Korea
 - Principle Investigator: Young-Hee Cho         
@@ -71,7 +71,7 @@
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-### <p align="justify"> An innovative light metal technology for shielding a large and high voltage xEV generator. (_2022 - 2024_) </p>
+<h3 align="justify"> An innovative light metal technology for shielding a large and high voltage xEV generator. (_2022 - 2024_) </h3>
 - Funding: $1.5M
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Kwangjun Euh         
@@ -81,16 +81,16 @@
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Patents
+<h2> Patents </h2>
 
-1. High-elasticity aluminum alloy casting material. (_KOR_)
-Jung-Moo Lee, Young-Hee Cho, **Saif Haider Kayani**, Lee Yoon-Ho, Kim Dong-Woo, Lee Sang-ik.
+1. <p align="justify"> High-elasticity aluminum alloy casting material. (_KOR_) </p>
+Jung-Moo Lee, Young-Hee Cho, **Saif Haider Kayani**, Lee Yoon-Ho, Kim Dong-Woo, Lee Sang-ik. <br/>
 Registered. (2024)                                                                  
-2. Manufacturing method of micro-pillar aluminum alloy specimens for physical properties evaluation and micro-pillar aluminum alloy specimens for physical properties. (_KOR_)
-Hyokyung Sung, Jae Bok Seol, Jung Gi Kim, Sangeun Park, ***Saif Haider Kayani***, Je Hyun Lee. 
+2. <p align="justify"> Manufacturing method of micro-pillar aluminum alloy specimens for physical properties evaluation and micro-pillar aluminum alloy specimens for physical properties. (_KOR_) </p>
+Hyokyung Sung, Jae Bok Seol, Jung Gi Kim, Sangeun Park, ***Saif Haider Kayani***, Je Hyun Lee. <br/>
 Application No. 1020230034478. (2023)                                              
-3. The manufacturing method for Inconel 718 alloy multilayer-shaped structure with excellent low-temperature tensile properties and Inconel 718 alloy multilayer-shaped structure. (_KOR_)
-Hyokyung Sung, Sangeun Park, Ha Eum Park, ***Saif Haider Kayani***, Je Hyun Lee.
+3. <p align="justify"> The manufacturing method for Inconel 718 alloy multilayer-shaped structure with excellent low-temperature tensile properties and Inconel 718 alloy multilayer-shaped structure. (_KOR_) </p>
+Hyokyung Sung, Sangeun Park, Ha Eum Park, ***Saif Haider Kayani***, Je Hyun Lee. <br/>
 Application No. 1020230034479. (2023)                                               
 
 ## Publications
