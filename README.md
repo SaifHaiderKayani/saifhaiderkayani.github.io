@@ -3,6 +3,7 @@
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
 ## Education
+
 - Ph.D., Advanced Materials Engineering (_Aug 2020_) |
   University of Science and Technology, South Korea 						       		
 - M.S., Materials Engineering & Nanotechnology (_June 2015_) | 
@@ -11,6 +12,7 @@
   Baha-Ud-Din Zakriya University, Pakistan 
 
 ## Work Experience
+
 **Post-doctoral Fellow @ Nanjing university of Science and Technology (_Sep 2025 - Present_)**
 - Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards.
 - Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles.
@@ -38,6 +40,7 @@
 
 
 ## Projects
+
 ### Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. (_2024 - 2027_)
 - Funding: $0.2M
 - Ministry of Trade, Industry and Energy, South Korea
@@ -240,6 +243,26 @@ Boxia Zhang, **Saif Haider Kayani**, Shilei Li, Jian Yin, Gang Sha (under submis
 12. Effect of solution treatment on microstructure and mechanical behavior of precipitation-hardened Al-Zn-Mg-Cu alloy.
 **Saif Haider Kayani**, Jae Bok Seol, Jung Gi Kim, Kwangjun Euh, Hyokyung Sung
 ***30th International Symposium on Technology of Plasticity***, 2021.
+
+### Domestic
+
+13. (2018-2025) Presented at Spring and Fall Meetings of ***the Korea Institute of Metals and Materials***, South Korea.
+14. (2020-2022) Presented at Spring and Fall Meetings of ***the Materials Research Society- Korea***, South Korea.
+15. (2021-2022) Presented at ***Advanced Structural Materials Symposium***, South Korea.
+16. (2023-2024) Presented at ***Spring and Fall Meetings of the Korean Foundry Society***, South Korea.
+
+## Achievements
+
+### Career Awards
+- 2025 Academic Award — Korea Institute of Materials Science.
+### Talks Awards
+- 2024 Outstanding Oral Presentation — The Korean Foundry Society.
+- 2020 Outstanding Oral Presentation (Structural Materials) — Materials Research Society-Korea.
+### Research Awards
+- 2024 Outstanding Contribution in Materials Photography — The Korean Institute of Metals and Materials.
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- 2023 Outstanding Contribution in Materials Photography — The Korean Institute of Metals and Materials.
+- 2022 Outstanding Contribution in Materials Photography — The Korean Institute of Metals and Materials.
 
 
 
