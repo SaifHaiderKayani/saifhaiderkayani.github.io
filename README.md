@@ -3,8 +3,8 @@
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
 ## Education
-- Ph.D., Advanced Materials Engineering | (_Aug 2020_)	
-  University of Science and Technology, South Korea  							       		
+- Ph.D., Advanced Materials Engineering | 	
+  University of Science and Technology, South Korea (_Aug 2020_) 							       		
 - M.S., Materials Engineering & Nanotechnology	| (_June 2015_)	
   GIK Institute of Engineering Sciences and Technology, Pakistan  			        		
 - B.S., Metallurgy and Materials Engineering | (_Sep 2012_)
