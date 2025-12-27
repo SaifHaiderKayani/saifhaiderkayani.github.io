@@ -87,10 +87,10 @@
 Jung-Moo Lee, Young-Hee Cho, <b>Saif Haider Kayani</b>, Lee Yoon-Ho, Kim Dong-Woo, Lee Sang-ik. <br/>
 Registered. (2024)<br/>                                                                
 <p align="justify"> 2. Manufacturing method of micro-pillar aluminum alloy specimens for physical properties evaluation and micro-pillar aluminum alloy specimens for physical properties. <i>(KOR)</i><br/>
-Hyokyung Sung, Jae Bok Seol, Jung Gi Kim, Sangeun Park, <b>Saif Haider Kayani</b>, Je Hyun Lee. <br/>
+Hyokyung Sung, Jae Bok Seol, Jung Gi Kim, Sangeun Park, <b>Saif Haider Kayani</b>, Je Hyun Lee.<br/>
 Application No. 1020230034478. (2023)<br/>                                              
-<p align="justify"> 3. The manufacturing method for Inconel 718 alloy multilayer-shaped structure with excellent low-temperature tensile properties and Inconel 718 alloy multilayer-shaped structure. <i>(KOR)</i>
-Hyokyung Sung, Sangeun Park, Ha Eum Park, <b>Saif Haider Kayani</b>, Je Hyun Lee. <br/>
+<p align="justify"> 3. The manufacturing method for Inconel 718 alloy multilayer-shaped structure with excellent low-temperature tensile properties and Inconel 718 alloy multilayer-shaped structure. <i>(KOR)</i><br/>
+Hyokyung Sung, Sangeun Park, Ha Eum Park, <b>Saif Haider Kayani</b>, Je Hyun Lee.<br/>
 Application No. 1020230034479. (2023)<br/>                                               
 
 <h2>Publications</h2>
