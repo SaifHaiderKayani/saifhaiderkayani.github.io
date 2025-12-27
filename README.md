@@ -2,7 +2,7 @@
 
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
-<h2> Education <h2>
+<h2> Education </h2>
 
 - Ph.D., Advanced Materials Engineering (_Aug. 2020_)<br/>
   *University of Science and Technology, South Korea* </p> 					       		
