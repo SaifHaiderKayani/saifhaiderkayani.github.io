@@ -5,11 +5,11 @@
 ## Education
 
 - Ph.D., Advanced Materials Engineering (_Aug. 2020_)<br/>
-  *University of Science and Technology, South Korea* </p>						       		
+  *University of Science and Technology, South Korea* 					       		
 - M.S., Materials Engineering & Nanotechnology (_June 2015_)<br/>
-  *GIK Institute of Engineering Sciences and Technology, Pakistan* </p>			        		
+  *GIK Institute of Engineering Sciences and Technology, Pakistan* 			        		
 - B.S., Metallurgy and Materials Engineering (_Sep. 2012_)<br/>
-  *Baha-Ud-Din Zakriya University, Pakistan* </p>
+  *Baha-Ud-Din Zakriya University, Pakistan* 
 
 ## Work Experience
 
@@ -19,24 +19,24 @@
 - <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
 
 **Senior Researcher @ Korea Institute of Materials Science (_Aug 2022 - Aug 2025_)**
-- Developing and managing funding proposals for domestic research projects, coordinating cross-functional research initiatives to align with university and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards.
-- Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles.
-- Published research findings in reputable journals, presented at conferences, and collaborated with researchers and industry partners on shared objectives, and mentored undergraduate and graduate students and interns in research, publications, and thesis writing.
+- <p align="justify"> Developing and managing funding proposals for domestic research projects, coordinating cross-functional research initiatives to align with university and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
+- <p align="justify"> Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles. </p>
+- <p align="justify"> Published research findings in reputable journals, presented at conferences, and collaborated with researchers and industry partners on shared objectives, and mentored undergraduate and graduate students and interns in research, publications, and thesis writing. </p>
 
 **Senior Researcher @ Gyeongsang National University (_Aug 2020 - July 2022_)**
-- Developing and managing funding proposals for domestic and international research projects, coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards.
-- Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles.
-- Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives, and mentored graduate students and interns in research, publications, and thesis writing.
+- <p align="justify"> Developing and managing funding proposals for domestic and international research projects, coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
+- <p align="justify"> Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles. </p>
+- <p align="justify"> Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives, and mentored graduate students and interns in research, publications, and thesis writing. </p>
 
 **Student Researcher @ Korea Institute of Materials Science (_Sep 2015 - Aug 2020_)**
-- Developing and coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards.
-- Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles.
-- Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives.
+- <p align="justify"> Developing and coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
+- <p align="justify"> Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles. </p>
+- <p align="justify"> Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives. </p>
 
 **Graduate Assistant @ GIK Institute of Engineering Sciences and Technology, Pakistan (_Jan 2013 - Dec 2015_)**
-- Deliver lectures, mentor undergraduate students in lab techniques and experiments, and prepare course-related records and lab manuals.
-- Support faculty in experimental research, data collection, and analysis; assist in lecture preparation, grading, and conducting laboratory courses.
-- Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events
+- <p align="justify"> Deliver lectures, mentor undergraduate students in lab techniques and experiments, and prepare course-related records and lab manuals.
+- <p align="justify"> Support faculty in experimental research, data collection, and analysis; assist in lecture preparation, grading, and conducting laboratory courses.
+- <p align="justify"> Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events
 
 
 ## Projects
