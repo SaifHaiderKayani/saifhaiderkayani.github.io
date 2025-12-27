@@ -33,7 +33,7 @@
 - <p align="justify"> Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives. </p>
 
-<h3> Graduate Assistant @ GIK Institute of Engineering Sciences and Technology, Pakistan <i>(Jan 2013 - Dec 2015)</i> </h2>
+<h3> Graduate Assistant @ GIK Institute of Engineering Sciences and Technology, Pakistan <i>(Jan 2013 - Dec 2015)</i> </h3>
 - <p align="justify"> Deliver lectures, mentor undergraduate students in lab techniques and experiments, and prepare course-related records and lab manuals. </p>
 - <p align="justify"> Support faculty in experimental research, data collection, and analysis; assist in lecture preparation, grading, and conducting laboratory courses. </p>
 - <p align="justify"> Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events. </p>
