@@ -41,7 +41,7 @@
 
 ## Projects
 
-### Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. (_2024 - 2027_)
+### <p align="justify"> Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. (_2024 - 2027_) </p>
 - Funding: $0.2M
 - Ministry of Trade, Industry and Energy, South Korea
 - Principle Investigator: Young-Hee Cho  
