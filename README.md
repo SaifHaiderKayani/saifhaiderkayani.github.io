@@ -4,11 +4,11 @@
 
 ## Education
 
-- <p align="justify"> Ph.D., Advanced Materials Engineering (_Aug. 2020_)<br/>
+- Ph.D., Advanced Materials Engineering (_Aug. 2020_)<br/>
   <p align="justify"> *University of Science and Technology, South Korea* </p> 					       		
-- <p align="justify"> M.S., Materials Engineering & Nanotechnology (_June 2015_)<br/>
+- M.S., Materials Engineering & Nanotechnology (_June 2015_)<br/>
   <p align="justify"> *GIK Institute of Engineering Sciences and Technology, Pakistan* </p> 			        		
-- <p align="justify"> B.S., Metallurgy and Materials Engineering (_Sep. 2012_)<br/>
+- B.S., Metallurgy and Materials Engineering (_Sep. 2012_)<br/>
   <p align="justify"> *Baha-Ud-Din Zakriya University, Pakistan* </p>
 
 ## Work Experience
