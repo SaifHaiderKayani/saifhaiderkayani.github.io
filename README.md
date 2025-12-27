@@ -81,6 +81,18 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
+## Patents
+
+1. High-elasticity aluminum alloy casting material. (_KOR_)
+Jung-Moo Lee, Young-Hee Cho, **Saif Haider Kayani**, Lee Yoon-Ho, Kim Dong-Woo, Lee Sang-ik.
+Registered. (2024)                                                                  
+2. Manufacturing method of micro-pillar aluminum alloy specimens for physical properties evaluation and micro-pillar aluminum alloy specimens for physical properties. (_KOR_)
+Hyokyung Sung, Jae Bok Seol, Jung Gi Kim, Sangeun Park, ***Saif Haider Kayani***, Je Hyun Lee. 
+Application No. 1020230034478. (2023)                                              
+3. The manufacturing method for Inconel 718 alloy multilayer-shaped structure with excellent low-temperature tensile properties and Inconel 718 alloy multilayer-shaped structure. (_KOR_)
+Hyokyung Sung, Sangeun Park, Ha Eum Park, ***Saif Haider Kayani***, Je Hyun Lee.
+Application No. 1020230034479. (2023)                                               
+
 ## Publications
 
 ### Corresponding Author
