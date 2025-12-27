@@ -273,6 +273,44 @@ Boxia Zhang, **Saif Haider Kayani**, Shilei Li, Jian Yin, Gang Sha (under submis
 
 ![Presented Work](/assets/2022_kim_award.png)
 
+## Editorial Positions
+
+- Crystals (MDPI) (_2022 - 2026_)
+Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (Special issues)
+
+## Peer Review Positions
+
+***Springer Nature*** Progress in Additive Manufacturing, Scientific Reports. 
+***Elsevier*** Materials Science and Engineering A, Journal of Materials Research and Technology, Journal of Alloys and Compounds, Intermetallics, Materials Letters, Theoretical and Applied Fracture Mechanics, Transactions of Nonferrous Metals Society of China, Materials Today Communications. Micron. 
+***Wiley*** Advanced Engineering Materials. 
+***Springer*** Rare Metals, Metals and Materials International. 
+***Taylor & Francis*** Materials Research Letters, Surface Engineering, Advances in Materials and Processing Technologies.
+
+## Techincal Expertise
+
+- Transmission Electron Microscopy (Certified user FEI, TF30ST at GNU, South Korea)
+- Scanning Electron Microscopy (Certified user Jeol, JSM 6610 at KIMS, South Korea)
+- Electron Backscatter Diffraction Analysis (Certified user Jeol JSM 7900F at CWNU and GNU, South Korea)
+- Electron channeling contrast imaging (Certified user Thermo Fisher, Apreo S at GNU, South Korea)
+- Focused Ion Beam – Micro-Pillar Fabrication (Certified user TESCAN, MIRA at GNU, South Korea)
+- TEM sample Preparation (Certified user PIPS, Twin Jet Electro and Dimple Polishing, at KIMS, South Korea)
+- Nanoindentation (Certified user Anton Paar, NHT3, at GNU, South Korea)
+- X-ray Diffractometer (Certified user Rigaku, D-max 2500, at KIMS, South Korea)
+- Corrosion Analyses – Potentiodynamic Polarization (Expert user; during Ph. D and Professional career)
+- Metallography, Electro-polishing, and Optical Microscopy (Expert user; during Ph. D and Professional career)
+- Electric Arc Melting and Vacuum Furnaces (Occasional operator; during Ph. D and MS work)
+
+## Software Expertise
+
+- GATAN Digital Microscopy (Expert user; Lattice, Precipitation, Diffraction pattern, and FFT analyses)
+- Factsage, Thermo-Calc (Expert user; Solidification and Phase Diagram analyses)
+- Geometrical Phase analysis (Expert user; Lattice Strain Analysis)
+- Single Crystal, Crystal Diffract, Carine, Vesta structure, TWIST (Expert user; Crystal structure analysis)
+- MDI Jade (Expert user; XRD peak and phase identification analyses)
+- Aztec, INCA, TSL-OIM (Expert user; EDS and EBSD analyses)
+- XEI (Expert user; SKFM and AFM analyses)
+- ImageJ, iSolutionDT (Expert user; Image analysis)
+- Origin Pro – (Expert user; Graphing, Data Analysis, Curve Fitting, and Mathematical Function, etc.)
 
 
 - [Data Science Blog](https://medium.com/@shawhin)
