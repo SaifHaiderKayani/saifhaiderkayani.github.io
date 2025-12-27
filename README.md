@@ -15,8 +15,8 @@
 
 **Post-doctoral Fellow @ Nanjing university of Science and Technology (_Sep 2025 - Present_)**
 - <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
-- Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles.
-- Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing.
+- <p align="justify"> Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles. </p>
+- <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
 
 **Senior Researcher @ Korea Institute of Materials Science (_Aug 2022 - Aug 2025_)**
 - Developing and managing funding proposals for domestic research projects, coordinating cross-functional research initiatives to align with university and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards.
