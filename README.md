@@ -150,61 +150,61 @@ Shape Memory and Superelasticity 2 (2016) 29-360. [DOI](https://link.springer.co
 
 16. Role of Ni in High elastic modulus Al-Si-Ni alloys: Solidification and Microstructure evolution.
 Yoon-Ho Lee, **Saif Haider Kayani**, Jung-Moo Lee, Sang-Ik Lee, Young-Hee Cho
-Materials Characterization 115768.
+Materials Characterization 115768. [DOI](https://doi.org/10.1016/j.matchar.2025.115768)
 17. Effect of Initial microstructure on dynamic recrystallization behavior during creep deformation of modified Nimonic 80A alloy. 
 Shaik Muhammad Ali, Hyungsoo Lee, Dae Won You, **Saif Haider Kayani**, Young-Soo You, Seo-Moon Seo, HiWon Jeong
-Materials Science and Engineering A 149323.
+Materials Science and Engineering A 149323. [DOI](https://doi.org/10.1016/j.msea.2025.149323)
 18. Data-driven design of Al–Fe alloys for laser powder bed fusion to enhance recycled aluminum utilization.
 Abdul Wahid Shah, Jabir Ali Siddique, Umar Daraz, **Saif Haider Kayani**, Javed Hussain, Ghulam Mudassir, Kang Wang, Wenfeng Li
-Journal of Alloys and Compounds 1039 (2025) 183278.         
+Journal of Alloys and Compounds 1039 (2025) 183278. [DOI](https://doi.org/10.1016/j.jallcom.2025.183278)         
 19. Effect of retrogression treatment on microstructure, mechanical properties, and corrosion behavior in Al-Zn-Mg-Cu alloy.
 Hyojin Hwang, Chang-Gi Lee, **Saif Haider Kayani**, Hyoung-Wook Kim, Je In Lee, Se-Ho Kim, Yong-Hee Jo
-Journal of Materials Research and Technology 36 (2025) 10577-10590.
+Journal of Materials Research and Technology 36 (2025) 10577-10590. [DOI](https://doi.org/10.1016/j.jmrt.2025.05.236)
 20. Solidification behavior and mechanical properties of a quaternary eutectic Al-Cu-Si-Mg alloy.
 Byung-Joo Kim, **Saif Haider Kayani**, Zhirou Zhang, Young-Hee Cho, Su-Hyeon Kim
-Journal of Alloys and Compounds 1007 (2024) 176351.
+Journal of Alloys and Compounds 1007 (2024) 176351. [DOI](https://www.sciencedirect.com/science/article/pii/S0925838824029384)
 21. Formation and Evolution of Interfacial structure in Al-Si-Mg/Stainless steel Bimetals during hot-dipping process.
 Byung-Joo Kim, Ha-Yoon Lim, **Saif Haider Kayani**, Yun-Soo Lee, Su-Hyeon Kim, Joon-Hyeon Cha
-Crystals 14(4) (2024) 387.
+Crystals 14(4) (2024) 387. [DOI](https://www.mdpi.com/2073-4352/14/4/387)
 22. Microscopic-plastic deformation behavior of grain boundary precipitates in an Al-Zn-Mg alloy.
 Sangyul Ha, **Saif Haider Kayani**, Kyungjun Lee, Suwon Park, Hyunjoo Choi, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung
-Journal of Materials Research and Technology 30 (2024) 3420-3429.
+Journal of Materials Research and Technology 30 (2024) 3420-3429. [DOI](https://www.sciencedirect.com/science/article/pii/S2238785424008172)
 23. The influence of chemical short-range order on the nanoindentation properties of high-entropy alloys prepared via laser powder bed fusion.
 Shuai Guo, Meng Wang, Qian Wang, Shang Sui, **Saif Haider Kayani**, Jae Bok Seol, Pengcheng Zhu, Anfu Guo, Xin Lin, Weidong Huan
-Materials Characterization 207 (2024) 113560.
+Materials Characterization 207 (2024) 113560. [DOI](https://www.sciencedirect.com/science/article/pii/S1044580323009191)
 24. Melt thermal-rate treatment for uniform solute distribution and improved mechanical properties of an Al-Zn-Mg-Cu alloy prepared by direct-chill casting
 Byung-Joo Kim, Su-Hyeon Kim, **Saif Haider Kayani**, Yoon-Ho Lee, Won-Kyoung Kim, Hyun-Seok Cheon, Jisu Kim, Young-Hee Cho, 
-Journal of Alloys and Compounds 967 (2023) 171745.
+Journal of Alloys and Compounds 967 (2023) 171745. [DOI](https://www.sciencedirect.com/science/article/pii/S1044580323009191)
 25. The role of prestraining on mechanical properties and microstructure of preaged AA 6016 Al-Mg-Si sheets.
 MinCui, **Saif Haider Kayani**, Hyoung-Wook Kim, Je-HyunLee
-Journal of Alloys and Compounds 960 (2023) 170681.
+Journal of Alloys and Compounds 960 (2023) 170681.[DOI](https://www.sciencedirect.com/science/article/pii/S0925838823019849)
 26. Microstructural Effects on J-Integral Fracture Toughness of Welded High-Mn Steels at 298 and 77 K.
 Sangeun Park, **Saif Haider Kayani**, Eun Hye Park, Jung Gi Kim, Sangshik Kim, Hyokyung Sung, Jae Bok Seol, 
-Steel Research International 94 (2023) 2200259.
+Steel Research International 94 (2023) 2200259. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/srin.202200259)
 27. Effects of Cu additions on the precipitation activation energy and mechanical properties of prestrained Al–Mg–Si alloys.
 MinCui, Yong Hee Jo, **Saif Haider Kayani**, Hyoung-Wook Kim, Je-HyunLee
-Journal of Materials Research and Technology 20 (2022) 2629-2637.
+Journal of Materials Research and Technology 20 (2022) 2629-2637. [DOI](https://www.sciencedirect.com/science/article/pii/S2238785422012704)
 28. Effect of Interdendritic Precipitations on the Mechanical Properties of GBF or EMS Processed Al-Zn-Mg-Cu Alloys.
 Sangeun Park, **Saif Haider Kayani**, Hyungrae Kim, Im Doo Jung, N.S. Reddy, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung
-Crystals 11(10) (2021) 1162.
+Crystals 11(10) (2021) 1162. [DOI](https://www.mdpi.com/2073-4352/11/10/1162)
 29. Crystallographic characterization of Al18Mg3Ti2 intermetallic phase in Al–Zn–Mg–Cu–Zr–Ti alloy.
 Sang-Hwa Lee, **Saif Haider Kayani**, Jae-Gil Jung, Sung-Il Baek, Min-Seok Kim, Young-Kook Lee, Kwangjun Euh
-Journal of Alloys and Compounds 844 (2020) 156173.
+Journal of Alloys and Compounds 844 (2020) 156173. [DOI](https://www.sciencedirect.com/science/article/pii/S0925838820325378)
 30. Mechanical properties and microstructure of rolled and electrodeposited thin copper foil.
 Xiang-Qian Yin, Li-Jun Peng, **Saif Kayani**, Lei Cheng, Jian-Wei Wang, Wei Xiao, Li-Gen Wang, Guo-Jie Huang
-Rare Metals 35 (2016) 909-914.
+Rare Metals 35 (2016) 909-914. [DOI](https://link.springer.com/article/10.1007/s12598-016-0806-4)
 31. n-InAs based photo-thermo-electrochemical cells for conversion of solar to electrical energy.
 Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, **Saif Haider Kayani**, K. Kabutov, R. A. Shakoord, N. J. Al-Thanid
-Journal of Electroanalytical Chemistry 775 (2016) 267-272.
+Journal of Electroanalytical Chemistry 775 (2016) 267-272. [DOI](https://www.sciencedirect.com/science/article/pii/S1572665716303009)
 
 ## Editorials
 
 32. Microstructure and Mechanical behavior of Structural Materials: 2nd Edition. 
 **Saif Haider Kayani**, Byung-Joo Kim 
-Crystals 15(11) (2025) 997.
+Crystals 15(11) (2025) 997. [DOI](https://doi.org/10.3390/cryst15110997)
 33. Microstructure and Mechanical behavior of Structural Materials. 
 **Saif Haider Kayani**, Byung-Joo Kim 
-Crystals 14(12) (2024) 1076.                                                          
+Crystals 14(12) (2024) 1076. [DOI](https://www.mdpi.com/2073-4352/14/12/1076)                                                          
 
 ## Under submission
 
