@@ -89,14 +89,56 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### Corresponding Author
+
+1. Impact of Intermetallic phase on pitting corrosion and high-temperature tensile properties of Al-Si-Cu-Ni alloys. 
+**Saif Haider Kayani**, Heon-Young Ha, Byung-Joo Kim, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee
+Corrosion Science (2024) 112064.                                                  
+2. Microstructural refinement in a high Elastic Modulus Al-18Si-8Ni casting alloy. 
+Yoon-Ho Lee, **Saif Haider Kayani**, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, Jae-Il Jang, Young-Hee Cho
+Journal of Alloys and Compounds 1008 (2024) 176580.
+3. Influence of Powder Size on Pore characteristics and Intermetallic Phase Kinetics in porous Ti-Al alloy. 
+**Saif Haider Kayani**, Hafiz Muhammad Salman Ajmal, Byung-Joo Kim, Nho-Kwang Park, Kwangjun Euh
+Crystals 14(4) (2024) 559. 
+4. Dislocation-assisted localized pitting corrosion behavior of Al‒Si‒Mg‒Cu‒Mn alloy.
+**Saif Haider Kayani**, Heon-Young Ha, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee
+Corrosion Science 221 (2023) 111372.
+
+### First Author 
+
+5. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment.
+**Saif Haider Kayani†**, Tae-Min Koo†, Soo-Bae Kim, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho
+Materials Science and Engineering A 939 (2025) 148503.
+6. The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy.
+Sang-Ik Lee†, **Saif Haider Kayani†**, Yoon-Ho Lee, Byung-Joo Kim, Jung-Moo Lee, Je-In Lee, Kwangjun Euh, Young-Hee Cho
+Journal of Materials Research and Technology 33 (2024) 2704-2717. 
+7. Effect of as-cast microstructure on precipitation behavior and thermal conductivity of T5-treated Al-7Si-0.35Mg alloy.
+**Saif Haider Kayani†**, Seung-Uk Lee†, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho
+Journal of Alloys and Compounds 976 (2023) 173004. 
+8. Pore formation mechanism and intermetallic phase transformation in Ti-Al alloy during reactive sintering.
+**Saif Haider Kayani**, Min Cui, Rana Tariq Mehmood Ahmed, Young-Hee Cho, Jung-Moo Lee, Nho-Kwang Park, Hafiz Muhammad Salman Ajmal, Kwangjun Euh, 
+Journal of Materials Research and Technology 22 (2023) 1878-1887.
+9. Experimental and crystal plasticity finite element study of the deformation behavior of high-Mn steel micropillars. 
+Sangyul Ha†, **Saif Haider Kayani†**, Kyungjun Lee, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung
+Steel Research International 94 (2023) 2200254.
+10. Dislocation-aided electrochemical behavior of precipitates in stress corrosion cracking of Al–Zn–Mg–Cu alloys.
+**Saif Haider Kayani**, Sangeun Park, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung
+Materials characterization 190 (2022) 112019.
+11. Direct observation of chemical short-range order in 25 wt% Mn steel via transmission electron microscopy.
+**Saif Haider Kayani**, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung
+Scripta Materialia 213 (2022) 114642.
+12. High Strength Aluminum Alloys Design via Explainable Artificial Intelligence.
+Seobin Park†, **Saif Haider Kayani†**, Kwangjun Euh, Eunhyeok Seo, Hayeol Kim, Sangeun Park, Bishnu Nand Yadav, Seong Jin Park, Hyokyung Sung, Im Doo Jung
+Journal of Alloys and Compounds 903 (2022) 163828.
+13. Effect of Cooling Rate on Precipitation Behavior of Al–7.65Zn–2.59Mg–1.95Cu Alloy with Minor Elements of Zr and Ti.
+**Saif Haider Kayani**, Jae-Gil Jung, Min-Seok Kim, Kwangjun Euh
+Metals and Materials International 26 (2020) 1079-1086.
+14. Effect of Cr and Nb on the phase transformation and pore formation of Ti-Al base alloys.
+**Saif Haider Kayani**, Nho-Kwang Park
+Journal of Alloys and Compounds 708 (2017) 308-315.
+15. Precipitation Behavior of Thermo-Mechanically Treated Ti50Ni20Au20Cu10 High-Temperature Shape-Memory Alloy.
+**Saif Haider Kayani**, M. Imran Khan, Fazal Ahmad Khalid, Hee Young Kim, Shuichi Miyazaki
+Shape Memory and Superelasticity 2 (2016) 29-360.
+
 
 - [Data Science Blog](https://medium.com/@shawhin)
