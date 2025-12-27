@@ -83,10 +83,10 @@
 
 <h2> Patents </h2>
 
-1. <p align="justify"> High-elasticity aluminum alloy casting material. (_KOR_) </p>
+<p align="justify"> 1. High-elasticity aluminum alloy casting material. (_KOR_)
 Jung-Moo Lee, Young-Hee Cho, **Saif Haider Kayani**, Lee Yoon-Ho, Kim Dong-Woo, Lee Sang-ik. <br/>
 Registered. (2024)                                                                  
-2. <p align="justify"> Manufacturing method of micro-pillar aluminum alloy specimens for physical properties evaluation and micro-pillar aluminum alloy specimens for physical properties. (_KOR_) </p>
+2. <p align="justify"> Manufacturing method of micro-pillar aluminum alloy specimens for physical properties evaluation and micro-pillar aluminum alloy specimens for physical properties. (_KOR_)
 Hyokyung Sung, Jae Bok Seol, Jung Gi Kim, Sangeun Park, ***Saif Haider Kayani***, Je Hyun Lee. <br/>
 Application No. 1020230034478. (2023)                                              
 3. <p align="justify"> The manufacturing method for Inconel 718 alloy multilayer-shaped structure with excellent low-temperature tensile properties and Inconel 718 alloy multilayer-shaped structure. (_KOR_) </p>
