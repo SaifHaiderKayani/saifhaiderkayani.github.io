@@ -114,37 +114,37 @@ Corrosion Science 221 (2023) 111372. [DOI](https://doi.org/10.1016/j.corsci.2023
 
 5. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment.
 **Saif Haider Kayani†**, Tae-Min Koo†, Soo-Bae Kim, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho
-Materials Science and Engineering A 939 (2025) 148503.
+Materials Science and Engineering A 939 (2025) 148503.[DOI](https://doi.org/10.1016/j.msea.2025.148503)
 6. The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy.
 Sang-Ik Lee†, **Saif Haider Kayani†**, Yoon-Ho Lee, Byung-Joo Kim, Jung-Moo Lee, Je-In Lee, Kwangjun Euh, Young-Hee Cho
-Journal of Materials Research and Technology 33 (2024) 2704-2717. 
+Journal of Materials Research and Technology 33 (2024) 2704-2717. [DOI](https://www.sciencedirect.com/science/article/pii/S2238785424021914)
 7. Effect of as-cast microstructure on precipitation behavior and thermal conductivity of T5-treated Al-7Si-0.35Mg alloy.
 **Saif Haider Kayani†**, Seung-Uk Lee†, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho
-Journal of Alloys and Compounds 976 (2023) 173004. 
+Journal of Alloys and Compounds 976 (2023) 173004. [DOI](https://www.sciencedirect.com/science/article/pii/S0925838823043074)
 8. Pore formation mechanism and intermetallic phase transformation in Ti-Al alloy during reactive sintering.
 **Saif Haider Kayani**, Min Cui, Rana Tariq Mehmood Ahmed, Young-Hee Cho, Jung-Moo Lee, Nho-Kwang Park, Hafiz Muhammad Salman Ajmal, Kwangjun Euh, 
-Journal of Materials Research and Technology 22 (2023) 1878-1887.
+Journal of Materials Research and Technology 22 (2023) 1878-1887. [DOI](https://www.sciencedirect.com/science/article/pii/S2238785422019469)
 9. Experimental and crystal plasticity finite element study of the deformation behavior of high-Mn steel micropillars. 
 Sangyul Ha†, **Saif Haider Kayani†**, Kyungjun Lee, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung
-Steel Research International 94 (2023) 2200254.
+Steel Research International 94 (2023) 2200254. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1002/srin.202200254)
 10. Dislocation-aided electrochemical behavior of precipitates in stress corrosion cracking of Al–Zn–Mg–Cu alloys.
 **Saif Haider Kayani**, Sangeun Park, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung
-Materials characterization 190 (2022) 112019.
+Materials characterization 190 (2022) 112019. [DOI](https://www.sciencedirect.com/science/article/pii/S1044580322003011)
 11. Direct observation of chemical short-range order in 25 wt% Mn steel via transmission electron microscopy.
 **Saif Haider Kayani**, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung
-Scripta Materialia 213 (2022) 114642.
+Scripta Materialia 213 (2022) 114642. [DOI](https://www.sciencedirect.com/science/article/pii/S1359646222001427)
 12. High Strength Aluminum Alloys Design via Explainable Artificial Intelligence.
 Seobin Park†, **Saif Haider Kayani†**, Kwangjun Euh, Eunhyeok Seo, Hayeol Kim, Sangeun Park, Bishnu Nand Yadav, Seong Jin Park, Hyokyung Sung, Im Doo Jung
-Journal of Alloys and Compounds 903 (2022) 163828.
+Journal of Alloys and Compounds 903 (2022) 163828. [DOI](https://www.sciencedirect.com/science/article/pii/S0925838822002195)
 13. Effect of Cooling Rate on Precipitation Behavior of Al–7.65Zn–2.59Mg–1.95Cu Alloy with Minor Elements of Zr and Ti.
 **Saif Haider Kayani**, Jae-Gil Jung, Min-Seok Kim, Kwangjun Euh
-Metals and Materials International 26 (2020) 1079-1086.
+Metals and Materials International 26 (2020) 1079-1086. [DOI](https://link.springer.com/article/10.1007/s12540-019-00385-1)
 14. Effect of Cr and Nb on the phase transformation and pore formation of Ti-Al base alloys.
 **Saif Haider Kayani**, Nho-Kwang Park
-Journal of Alloys and Compounds 708 (2017) 308-315.
+Journal of Alloys and Compounds 708 (2017) 308-315. [DOI](https://www.sciencedirect.com/science/article/pii/S0925838817307740)
 15. Precipitation Behavior of Thermo-Mechanically Treated Ti50Ni20Au20Cu10 High-Temperature Shape-Memory Alloy.
 **Saif Haider Kayani**, M. Imran Khan, Fazal Ahmad Khalid, Hee Young Kim, Shuichi Miyazaki
-Shape Memory and Superelasticity 2 (2016) 29-360.
+Shape Memory and Superelasticity 2 (2016) 29-360. [DOI](https://link.springer.com/article/10.1007/s40830-015-0048-6)
 
 ### Co-Author 
 
