@@ -2,7 +2,7 @@
 
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
-## Education
+<h2> Education
 
 - Ph.D., Advanced Materials Engineering (_Aug. 2020_)<br/>
   *University of Science and Technology, South Korea* </p> 					       		
@@ -11,7 +11,7 @@
 - B.S., Metallurgy and Materials Engineering (_Sep. 2012_)<br/>
   *Baha-Ud-Din Zakriya University, Pakistan* </p>
 
-## Work Experience
+<h2> Work Experience
 
 **Post-doctoral Fellow @ Nanjing university of Science and Technology (_Sep 2025 - Present_)**
 - <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
@@ -39,9 +39,9 @@
 - <p align="justify"> Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events
 
 
-## Projects
+<h2> Projects
 
-### <p align="justify">Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting.(_2024 - 2027_)</p>
+<h3 align="justify"> Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting.(_2024 - 2027_)
 - Funding: $0.2M
 - Ministry of Trade, Industry and Energy, South Korea
 - Principle Investigator: Young-Hee Cho  
