@@ -99,19 +99,18 @@ Application No. 1020230034479. (2023)<br/>
 
 <p align="justify"> 1. Impact of Intermetallic phase on pitting corrosion and high-temperature tensile properties of Al-Si-Cu-Ni alloys. <br/>
 <b>Saif Haider Kayani</b>, Heon-Young Ha, Byung-Joo Kim, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee <br/>
-<i>Corrosion Science (2024) 112064</i>.<br/> <a href="https://doi.org/10.1016/j.corsci.2024.112064"> DOI</a>
-[DOI](https://doi.org/10.1016/j.corsci.2024.112064)                                               
-<p align="justify"> 2. Microstructural refinement in a high Elastic Modulus Al-18Si-8Ni casting alloy. <br/> 
-Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, Jae-Il Jang, Young-Hee Cho <br/> 
-Journal of Alloys and Compounds 1008 (2024) 176580. [DOI](https://doi.org/10.1016/j.jallcom.2024.176580) 
-3. Influence of Powder Size on Pore characteristics and Intermetallic Phase Kinetics in porous Ti-Al alloy. 
-**Saif Haider Kayani**, Hafiz Muhammad Salman Ajmal, Byung-Joo Kim, Nho-Kwang Park, Kwangjun Euh
-Crystals 14(4) (2024) 559. [DOI](https://doi.org/10.3390/cryst14060559)
-4. Dislocation-assisted localized pitting corrosion behavior of Al‒Si‒Mg‒Cu‒Mn alloy.
-**Saif Haider Kayani**, Heon-Young Ha, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee
-Corrosion Science 221 (2023) 111372. [DOI](https://doi.org/10.1016/j.corsci.2023.111372)
+<i>Corrosion Science (2024) 112064</i>.<br/> <a href="https://doi.org/10.1016/j.corsci.2024.112064"> DOI</a> 
+<p align="justify"> 2. Microstructural refinement in a high Elastic Modulus Al-18Si-8Ni casting alloy. <br/>
+Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, Jae-Il Jang, Young-Hee Cho <br/>
+<i>Journal of Alloys and Compounds 1008 (2024) 176580</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2024.176580"> DOI</a> 
+<p align="justify"> 3. Influence of Powder Size on Pore characteristics and Intermetallic Phase Kinetics in porous Ti-Al alloy. <br/>
+<b>Saif Haider Kayani</b>, Hafiz Muhammad Salman Ajmal, Byung-Joo Kim, Nho-Kwang Park, Kwangjun Euh <br/>
+<i>Crystals 14(4) (2024) 559</i>.<br/> <a href="https://doi.org/10.3390/cryst14060559"> DOI</a>
+<p align="justify"> 4. Dislocation-assisted localized pitting corrosion behavior of Al‒Si‒Mg‒Cu‒Mn alloy. <br/>
+<b>Saif Haider Kayani</b>, Heon-Young Ha, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee <br/>
+<i>Corrosion Science 221 (2023) 111372</i>.<br/> <a href="https://doi.org/10.1016/j.corsci.2023.111372"> DOI</a> 
 
-### First Author 
+<h2>First Author</h2>  
 
 5. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment.
 **Saif Haider Kayani†**, Tae-Min Koo†, Soo-Bae Kim, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho
