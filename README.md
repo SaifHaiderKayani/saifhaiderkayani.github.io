@@ -13,7 +13,7 @@
 
 <h2> Work Experience </h2>
 
-<h3> Post-doctoral Fellow @ Nanjing university of Science and Technology <i>(Sep 2025 - Present)</i> </h3>
+<h3> Post-doctoral Fellow @ Nanjing university of Science and Technology (_Sep 2025 - Present_) </h3>
 - <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
 - <p align="justify"> Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
