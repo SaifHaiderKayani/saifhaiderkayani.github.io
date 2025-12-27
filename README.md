@@ -41,7 +41,7 @@
 
 <h2> Projects </h2>
 
-<h3 align="justify"> Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting.(_2024 - 2027_) </h3>
+<h3 align="justify"> Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. <i>(2024 - 2027)</i> </h3>
 - Funding: $0.2M
 - Ministry of Trade, Industry and Energy, South Korea
 - Principle Investigator: Young-Hee Cho  
@@ -51,7 +51,7 @@
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-<h3 align="justify"> Development of 200℃/250MPa grade composite aluminum casting alloy and brake disc/friction material manufacturing technology. (_2022 - 2026_) </h3>
+<h3 align="justify"> Development of 200℃/250MPa grade composite aluminum casting alloy and brake disc/friction material manufacturing technology. <i>(2022 - 2026)</i> </h3>
 - Funding: $0.2M
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Jung-Moo Lee          
@@ -61,7 +61,7 @@
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-<h3 align="justify"> Development of eco-friendly aluminum material technology to ease impurity regulations. (_2021 - 2026_) </h3>
+<h3 align="justify"> Development of eco-friendly aluminum material technology to ease impurity regulations. <i>(2021 - 2026)</i> </h3>
 - Funding: $0.9M
 - Ministry of Science and ICT, South Korea
 - Principle Investigator: Young-Hee Cho         
@@ -71,7 +71,7 @@
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-<h3 align="justify"> An innovative light metal technology for shielding a large and high voltage xEV generator. (_2022 - 2024_) </h3>
+<h3 align="justify"> An innovative light metal technology for shielding a large and high voltage xEV generator. <i>(2022 - 2024)</i> </h3>
 - Funding: $1.5M
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Kwangjun Euh         
