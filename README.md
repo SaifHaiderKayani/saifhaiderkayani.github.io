@@ -9,20 +9,30 @@
 
 ## Work Experience
 **Post-doctoral Fellow @ Nanjing university of Science and Technology (_Sep 2025 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards.
+- Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles.
+- Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing.
 
 **Senior Researcher @ Korea Institute of Materials Science (_Aug 2022 - Aug 2025_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developing and managing funding proposals for domestic research projects, coordinating cross-functional research initiatives to align with university and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards.
+- Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles.
+- Published research findings in reputable journals, presented at conferences, and collaborated with researchers and industry partners on shared objectives, and mentored undergraduate and graduate students and interns in research, publications, and thesis writing.
 
 **Senior Researcher @ Gyeongsang National University (_Aug 2020 - July 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developing and managing funding proposals for domestic and international research projects, coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards.
+- Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles.
+- Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives, and mentored graduate students and interns in research, publications, and thesis writing.
+
+**Student Researcher @ Korea Institute of Materials Science (_Sep 2015 - Aug 2020_)**
+- Developing and coordinating cross-functional research initiatives to align with institutional and industry goals, and overseeing research projects to ensure adherence to timelines and quality standards.
+- Design and conduct experiments using advanced characterization techniques to address technical challenges, identify root causes, and develop innovative solutions through fundamental scientific principles.
+- Published research findings in reputable journals, presented at conferences, collaborated with researchers and industry partners on shared objectives.
 
 **Graduate Assistant @ GIK Institute of Engineering Sciences and Technology, Pakistan (_Jan 2013 - Dec 2015_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Deliver lectures, mentor undergraduate students in lab techniques and experiments, and prepare course-related records and lab manuals.
+- Support faculty in experimental research, data collection, and analysis; assist in lecture preparation, grading, and conducting laboratory courses.
+- Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events
+
 
 ## Projects
 ### Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. (_2024 - 2027_)
