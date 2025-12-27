@@ -99,7 +99,7 @@ Application No. 1020230034479. (2023)<br/>
 
 <p align="justify"> 1. Impact of Intermetallic phase on pitting corrosion and high-temperature tensile properties of Al-Si-Cu-Ni alloys. <br/> 
 <b>Saif Haider Kayani</b>, Heon-Young Ha, Byung-Joo Kim, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee <br/>
-Corrosion Science (_2024_) 112064. [DOI](https://doi.org/10.1016/j.corsci.2024.112064)                                                 
+Corrosion Science <i>(2024)</i> 112064. [DOI](https://doi.org/10.1016/j.corsci.2024.112064)                                                 
 <p align="justify"> 2. Microstructural refinement in a high Elastic Modulus Al-18Si-8Ni casting alloy. <br/> 
 Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, Jae-Il Jang, Young-Hee Cho <br/> 
 Journal of Alloys and Compounds 1008 (2024) 176580. [DOI](https://doi.org/10.1016/j.jallcom.2024.176580) 
