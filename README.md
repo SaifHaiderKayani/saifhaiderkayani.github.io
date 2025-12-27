@@ -1,4 +1,4 @@
-<h1> Materials Scientist
+<h1> Materials Scientist </h1>
 
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
