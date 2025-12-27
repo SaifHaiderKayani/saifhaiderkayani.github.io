@@ -258,11 +258,13 @@ Boxia Zhang, **Saif Haider Kayani**, Shilei Li, Jian Yin, Gang Sha (under submis
 ### Talks Awards
 - 2024 Outstanding Oral Presentation — The Korean Foundry Society.
 - 2020 Outstanding Oral Presentation (Structural Materials) — Materials Research Society-Korea.
-### Research Awards
+### Scientific Awards
 - 2024 Outstanding Contribution in Materials Photography — The Korean Institute of Metals and Materials.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Presented Work](/assets/2024_kim_award.png)
 - 2023 Outstanding Contribution in Materials Photography — The Korean Institute of Metals and Materials.
+![Presented Work](/assets/2023_kim_award.png)
 - 2022 Outstanding Contribution in Materials Photography — The Korean Institute of Metals and Materials.
+- ![Presented Work](/assets/2022_kim_award.png)
 
 
 
