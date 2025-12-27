@@ -40,7 +40,7 @@
 ## Projects
 ### Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. (_2024 - 2027_)
 - Funding: $0.2M
-- Ministry of Trade, Industry and Energy, South Korea      
+- Ministry of Trade, Industry and Energy, South Korea
 - Principle Investigator: Young-Hee Cho  
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -50,7 +50,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ### Development of 200℃/250MPa grade composite aluminum casting alloy and brake disc/friction material manufacturing technology. (_2022 - 2026_)
 - Funding: $0.2M
-- Defense Acquisition Program Administration, South Korea      
+- Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Jung-Moo Lee          
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
@@ -60,7 +60,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### Development of eco-friendly aluminum material technology to ease impurity regulations. (_2021 - 2026_)
 - Funding: $0.9M
-- Ministry of Science and ICT, South Korea      
+- Ministry of Science and ICT, South Korea
 - Principle Investigator: Young-Hee Cho         
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
@@ -70,7 +70,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ### An innovative light metal technology for shielding a large and high voltage xEV generator. (_2022 - 2024_)
 - Funding: $1.5M
-- Defense Acquisition Program Administration, South Korea      
+- Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Kwangjun Euh         
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
