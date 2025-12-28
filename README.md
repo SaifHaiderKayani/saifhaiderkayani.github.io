@@ -285,8 +285,8 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
 
 <h3>Editorial Positions</h3>
 
-<p align="justify">- Crystals (MDPI) <i></i>(2022 - 2026)</p> 
-Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (Special issues) <br/>
+<p align="justify">- Crystals (MDPI) <i></i>(2022 - 2026)<br/>
+Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (Special issues) </p> 
 
 <h3>Peer Review Positions</h3>
 
