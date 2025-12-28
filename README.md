@@ -286,15 +286,15 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
 <h3>Editorial Positions</h3>
 
 <p align="justify">- Crystals (MDPI) <i></i>(2022 - 2026)<br/>
-Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (Special issues) </p> 
+Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (Special issues) <br/>
 
 <h3>Peer Review Positions</h3>
 
-<p align="justify"> <b>Springer Nature</b> Progress in Additive Manufacturing, Scientific Reports. <br/>
-<p align="justify"> <b>Elsevier</b> Materials Science and Engineering A, Journal of Materials Research and Technology, Journal of Alloys and Compounds, Intermetallics, Materials Letters, Theoretical and Applied Fracture Mechanics, Transactions of Nonferrous Metals Society of China, Materials Today Communications. Micron. <br/>
-<p align="justify"> <b>Wiley</b> Advanced Engineering Materials. <br/>
-<p align="justify"> <b>Springer</b> Rare Metals, Metals and Materials International. <br/>
-<p align="justify"> <b>Taylor & Francis</b> Materials Research Letters, Surface Engineering, Advances in Materials and Processing Technologies. <br/>
+<p align="justify"> <b>Springer Nature:</b> Progress in Additive Manufacturing, Scientific Reports. <br/>
+<p align="justify"> <b>Elsevier:</b> Materials Science and Engineering A, Journal of Materials Research and Technology, Journal of Alloys and Compounds, Intermetallics, Materials Letters, Theoretical and Applied Fracture Mechanics, Transactions of Nonferrous Metals Society of China, Materials Today Communications. Micron. <br/>
+<p align="justify"> <b>Wiley:</b> Advanced Engineering Materials. <br/>
+<p align="justify"> <b>Springer:</b> Rare Metals, Metals and Materials International. <br/>
+<p align="justify"> <b>Taylor & Francis:</b> Materials Research Letters, Surface Engineering, Advances in Materials and Processing Technologies. <br/>
 
 <h3>Techincal Expertise</h3>
 
