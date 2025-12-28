@@ -199,14 +199,14 @@ Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, <b
 
 <h3>Editorials</h3> 
 
-32. Microstructure and Mechanical behavior of Structural Materials: 2nd Edition. 
-**Saif Haider Kayani**, Byung-Joo Kim 
-Crystals 15(11) (2025) 997. [DOI](https://doi.org/10.3390/cryst15110997)
-33. Microstructure and Mechanical behavior of Structural Materials. 
-**Saif Haider Kayani**, Byung-Joo Kim 
-Crystals 14(12) (2024) 1076. [DOI](https://www.mdpi.com/2073-4352/14/12/1076)                                                          
+<p align="justify"> 32. Microstructure and Mechanical behavior of Structural Materials: 2nd Edition. <br/>
+<b>Saif Haider Kayani</b>, Byung-Joo Kim <br/>
+<i>Crystals 15(11) (2025) 997</i>.<br/> <a href="https://doi.org/10.3390/cryst15110997"> DOI</a>
+<p align="justify"> 33. Microstructure and Mechanical behavior of Structural Materials. <br/>
+<b>Saif Haider Kayani</b>, Byung-Joo Kim <br/>
+<i>Crystals 14(12) (2024) 1076</i>.<br/> <a href="https://www.mdpi.com/2073-4352/14/12/1076"> DOI</a>                                                     
 
-## Under submission
+<h3>Under submission</h3>
 
 34. Atomic structure of  precipitates in high-Si containing Al-Si-Mg alloy.
 **Saif Haider Kayani**, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho (under review)
