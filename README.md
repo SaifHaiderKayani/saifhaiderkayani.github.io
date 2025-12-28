@@ -308,7 +308,7 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 <p align="justify" style="margin:0;">- X-ray Diffractometer <i>(Certified user Rigaku, D-max 2500, at KIMS, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- Corrosion Analyses – Potentiodynamic Polarization <i>(Expert user; during Ph. D and Professional career)</i><br/>
 <p align="justify" style="margin:0;">- Metallography, Electro-polishing, and Optical Microscopy <i>(Expert user; during Ph. D and Professional career)</i><br/>
-<p align="justify" style="margin:0;">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i><br/>
+<p align="justify">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i><br/>
 
 <h3>Software Expertise</h3>
 
