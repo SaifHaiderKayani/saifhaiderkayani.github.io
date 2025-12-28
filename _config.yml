@@ -1,5 +1,7 @@
 title: Saif Haider Kayani
 logo: /assets/headshot_circle.jpg
-#description: > <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener"> <img src="/assets/google_scholar_logo.png" alt="Google Scholar" style="height:22px; margin-top:10px;"></a>
+#description: <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener"> 
+<img src="/assets/google_scholar_logo.png" alt="Google Scholar" style="height:22px; margin-top:10px;">
+</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
