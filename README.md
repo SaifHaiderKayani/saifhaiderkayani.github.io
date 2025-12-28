@@ -298,8 +298,8 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 
 <h3>Techincal Expertise</h3>
 
-<p align="justify" style="margin:0;">- Transmission Electron Microscopy <i>(Certified user FEI, TF30ST at GNU, South Korea)</i></p>
-<p align="justify" style="margin:0;">- Scanning Electron Microscopy <i>(Certified user Jeol, JSM 6610 at KIMS, South Korea)</i></p>
+<p align="justify" style="margin:0;">- Transmission Electron Microscopy <i>(Certified user FEI, TF30ST at GNU, South Korea)</i><br/>
+<p align="justify" style="margin:0;">- Scanning Electron Microscopy <i>(Certified user Jeol, JSM 6610 at KIMS, South Korea)</i><br/>
 <p align="justify">- Electron Backscatter Diffraction Analysis <i>(Certified user Jeol JSM 7900F at CWNU and GNU, South Korea)</i>
 <p align="justify">- Electron channeling contrast imaging <i>(Certified user Thermo Fisher, Apreo S at GNU, South Korea)</i>
 <p align="justify">- Focused Ion Beam – Micro-Pillar Fabrication <i>(Certified user TESCAN, MIRA at GNU, South Korea)</i> 
