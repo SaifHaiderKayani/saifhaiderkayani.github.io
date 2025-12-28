@@ -38,7 +38,6 @@ Baha-Ud-Din Zakriya University, Pakistan
 - <p align="justify"> Support faculty in experimental research, data collection, and analysis; assist in lecture preparation, grading, and conducting laboratory courses. </p>
 - <p align="justify"> Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events. </p>
 
-
 <h2> Projects </h2>
 
 <h3 align="justify"> Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. <i>(2024 - 2027)</i> </h3>
@@ -110,7 +109,7 @@ Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, 
 <b>Saif Haider Kayani</b>, Heon-Young Ha, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee <br/>
 <i>Corrosion Science 221 (2023) 111372</i>.<br/> <a href="https://doi.org/10.1016/j.corsci.2023.111372"> DOI</a> 
 
-<h2>First Author</h2>  
+<h3>First Author</h3>  
 
 <p align="justify"> 5. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment. <br/>
 <b>Saif Haider Kayani†</b>, Tae-Min Koo†, Soo-Bae Kim, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <br/>
