@@ -21,7 +21,7 @@ description: >
       <img src="/assets/clarivate.png" style="height:30px;">
     </a>
 Citation_badge:
-  image: "/assets/citations.png"
+  image: /assets/citations.png
     
 #show_downloads: true
 theme: jekyll-theme-minimal
