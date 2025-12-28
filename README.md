@@ -263,12 +263,12 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
 <p align="justify"> 2020 Outstanding Oral Presentation (Structural Materials), <i>Materials Research Society-Korea</i>. <br/>
  
 <h3>Scientific Awards</h3>
-<p align="justify"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>. <br/>
-<img src="assets/2024_kim_award.png"  alt="Figure description"  width="600"/>
-<p align="justify"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>. <br/>
-<img src="assets/2023_kim_award.png"  alt="Figure description"  width="600"/>
-<p align="justify"> 2022 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>. <br/>
-<img src="assets/2022_kim_award.png"  alt="Figure description"  width="600"/>
+<p align="justify"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+             <img src="assets/2024_kim_award.png"  alt="Figure description"  width="500"/>
+<p align="justify"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+             <img src="assets/2023_kim_award.png"  alt="Figure description"  width="500"/>
+<p align="justify"> 2022 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+             <img src="assets/2022_kim_award.png"  alt="Figure description"  width="500"/>
 
 <h3>Editorial Positions</h3>
 
@@ -295,7 +295,7 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 <p align="justify" style="margin:0;">- X-ray Diffractometer <i>(Certified user Rigaku, D-max 2500, at KIMS, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- Corrosion Analyses – Potentiodynamic Polarization <i>(Expert user; during Ph. D and Professional career)</i><br/>
 <p align="justify" style="margin:0;">- Metallography, Electro-polishing, and Optical Microscopy <i>(Expert user; during Ph. D and Professional career)</i><br/>
-<p align="justify">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i> <br/>
+<p align="justify">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i><br/>
 
 <h3>Software Expertise</h3>
 
