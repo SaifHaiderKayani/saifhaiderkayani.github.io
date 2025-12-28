@@ -208,16 +208,16 @@ Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, <b
 
 <h3>Under submission</h3>
 
-34. Atomic structure of  precipitates in high-Si containing Al-Si-Mg alloy.
-**Saif Haider Kayani**, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho (under review)
-35. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy.
-**Saif Haider Kayani**, Dongwon Shin, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho (under submission)
-36. Effect of G phase on thermal hardenability of Duplex stainless steels.
-Boxia Zhang, **Saif Haider Kayani**, Shilei Li, Jian Yin, Gang Sha (under submission)
+<p align="justify"> 34. Atomic structure of  precipitates in high-Si containing Al-Si-Mg alloy. <br/>
+<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <i>(under review)</i> <br/>
+<p align="justify"> 35. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
+<b>Saif Haider Kayani</b>, Dongwon Shin, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <i>(under submission)</i> <br/>
+<p align="justify"> 36. Effect of G phase on thermal hardenability of Duplex stainless steels. <br/>
+Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under submission)</i> <br/>
 
-## Talks
+<h2>Talks</h2> 
 
-### International
+<h3>International</h3>
 
 1. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy.
 **Saif Haider Kayani**, Jung-Moo Lee, Kwangjun Euh, Dongwon Shin, Young-Hee Cho, Gang Sha
