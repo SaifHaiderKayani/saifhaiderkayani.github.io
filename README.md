@@ -258,47 +258,46 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
 
 <h3>Domestic</h3>
 
-13. (2018-2025) Presented at Spring and Fall Meetings of ***the Korea Institute of Metals and Materials***, South Korea.
-14. (2020-2022) Presented at Spring and Fall Meetings of ***the Materials Research Society- Korea***, South Korea.
-15. (2021-2022) Presented at ***Advanced Structural Materials Symposium***, South Korea.
-16. (2023-2024) Presented at ***Spring and Fall Meetings of the Korean Foundry Society***, South Korea.
+<p align="justify"> 13. (2018-2025) Presented at Spring and Fall Meetings of the <b> Korea Institute of Metals and Materials</b>, South Korea. <br/>
+<p align="justify"> 14. (2021-2022) Presented at <b>Advanced Structural Materials Symposium</b>, South Korea. <br/>
+<p align="justify"> 15. (2023-2024) Presented at Spring and Fall Meetings of the <b>Korean Foundry Society</b>, South Korea. <br/>
 
-## Achievements
+<h2>Achievements</h2>
 
-### Career Awards
-***2025 Academic Award*** | Korea Institute of Materials Science.
+<h3>Career Awards</h3>
+<p align="justify"> 2025 Academic Award, <i>Korea Institute of Materials Science</i>. <br/>
  
-### Talks Awards
-***2024 Outstanding Oral Presentation*** | The Korean Foundry Society.
-***2020 Outstanding Oral Presentation (Structural Materials)*** | Materials Research Society-Korea.
+<h3>Talks Awards</h3>
+<p align="justify"> 2024 Outstanding Oral Presentation, <i>The Korean Foundry Society</i>. <br/>
+<p align="justify"> 2020 Outstanding Oral Presentation (Structural Materials), <i>Materials Research Society-Korea</i>. <br/>
  
-### Scientific Awards
-***2024 Outstanding Contribution in Materials Photography*** | The Korean Institute of Metals and Materials.
+<h3>Scientific Awards</h3>
+<p align="justify"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>. <br/>
 
 ![Presented Work](/assets/2024_kim_award.png)
 
-***2023 Outstanding Contribution in Materials Photography*** | The Korean Institute of Metals and Materials.
+<p align="justify"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>. <br/>
 
 ![Presented Work](/assets/2023_kim_award.png)
 
-***2022 Outstanding Contribution in Materials Photography*** | The Korean Institute of Metals and Materials.
+<p align="justify"> 2022 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>. <br/>
 
 ![Presented Work](/assets/2022_kim_award.png)
 
-## Editorial Positions
+<h3>Editorial Positions</h3>
 
-- Crystals (MDPI) (_2022 - 2026_)
+<p align="justify">- Crystals (MDPI) <i></i>(2022 - 2026)</p> <br/>
 Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (Special issues)
 
-## Peer Review Positions
+<h3>Peer Review Positions</h3>
 
-***Springer Nature*** Progress in Additive Manufacturing, Scientific Reports. 
-***Elsevier*** Materials Science and Engineering A, Journal of Materials Research and Technology, Journal of Alloys and Compounds, Intermetallics, Materials Letters, Theoretical and Applied Fracture Mechanics, Transactions of Nonferrous Metals Society of China, Materials Today Communications. Micron. 
-***Wiley*** Advanced Engineering Materials. 
-***Springer*** Rare Metals, Metals and Materials International. 
-***Taylor & Francis*** Materials Research Letters, Surface Engineering, Advances in Materials and Processing Technologies.
+<b>Springer Nature</b> Progress in Additive Manufacturing, Scientific Reports. 
+<b>Elsevier</b> Materials Science and Engineering A, Journal of Materials Research and Technology, Journal of Alloys and Compounds, Intermetallics, Materials Letters, Theoretical and Applied Fracture Mechanics, Transactions of Nonferrous Metals Society of China, Materials Today Communications. Micron. 
+<b>Wiley</b> Advanced Engineering Materials. 
+<b>Springer</b> Rare Metals, Metals and Materials International. 
+<b>Taylor & Francis</b> Materials Research Letters, Surface Engineering, Advances in Materials and Processing Technologies.
 
-## Techincal Expertise
+<h3>Techincal Expertise</h3>
 
 - Transmission Electron Microscopy (Certified user FEI, TF30ST at GNU, South Korea)
 - Scanning Electron Microscopy (Certified user Jeol, JSM 6610 at KIMS, South Korea)
@@ -312,7 +311,7 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 - Metallography, Electro-polishing, and Optical Microscopy (Expert user; during Ph. D and Professional career)
 - Electric Arc Melting and Vacuum Furnaces (Occasional operator; during Ph. D and MS work)
 
-## Software Expertise
+<h3>Software Expertise</h3>
 
 - GATAN Digital Microscopy (Expert user; Lattice, Precipitation, Diffraction pattern, and FFT analyses)
 - Factsage, Thermo-Calc (Expert user; Solidification and Phase Diagram analyses)
@@ -324,5 +323,3 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 - ImageJ, iSolutionDT (Expert user; Image analysis)
 - Origin Pro – (Expert user; Graphing, Data Analysis, Curve Fitting, and Mathematical Function, etc.)
 
-
-- [Data Science Blog](https://medium.com/@shawhin)
