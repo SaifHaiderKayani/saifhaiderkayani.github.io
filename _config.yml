@@ -6,19 +6,19 @@ description: >
     <img src="/assets/google_scholar_logo.png" style="height:22px;">
   </a>
   <a href="https://www.linkedin.com/in/saif-haider-kayani-phd-22409961/" target="_blank" rel="noopener">
-      <img src="/assets/icons/linkedIn_logo.png" style="height:22px;">
+      <img src="/assets/linkedIn_logo.png" style="height:22px;">
     </a>
     <a href="https://www.researchgate.net/profile/Saif-Kayani?ev=hdr_xprf" target="_blank" rel="noopener">
-      <img src="/assets/icons/researchgate.png" style="height:22px;">
+      <img src="/assets/researchgate.png" style="height:22px;">
     </a>
     <a href="https://www.scopus.com/authid/detail.uri?authorId=57191869471" target="_blank" rel="noopener">
-      <img src="/assets/icons/scopus_logo.png" style="height:22px;">
+      <img src="/assets/scopus_logo.png" style="height:22px;">
     </a>
     <a href="https://www.webofscience.com/wos/author/record/ABA-1504-2021" target="_blank" rel="noopener">
-      <img src="/assets/icons/clarivate.png" style="height:22px;">
+      <img src="/assets/clarivate.png" style="height:22px;">
     </a>
     <a href="https://orcid.org/my-orcid?orcid=0000-0002-7945-5934" target="_blank" rel="noopener">
-      <img src="/assets/icons/orcid.png" style="height:22px;">
+      <img src="/assets/orcid.png" style="height:22px;">
     </a>
 #show_downloads: true
 theme: jekyll-theme-minimal
