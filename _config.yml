@@ -20,8 +20,8 @@ description: >
     <a href="https://www.webofscience.com/wos/author/record/ABA-1504-2021" target="_blank" rel="noopener">
       <img src="/assets/clarivate.png" style="height:30px;">
     </a>
-badge:
-<img src="/assets/citations.png" style="height:300px;">
+Citation_badge:
+  image: "/assets/citations.png"
     
 #show_downloads: true
 theme: jekyll-theme-minimal
