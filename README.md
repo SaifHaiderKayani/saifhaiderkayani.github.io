@@ -55,8 +55,6 @@ Baha-Ud-Din Zakriya University, Pakistan
 - Ministry of Science and ICT, South Korea
 - Principle Investigator: Young-Hee Cho         
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
 <h3 align="justify"> An innovative light metal technology for shielding a large and high voltage xEV generator. <i>(2022 - 2024)</i> </h3>
 - Funding: $1.5M
 - Defense Acquisition Program Administration, South Korea
