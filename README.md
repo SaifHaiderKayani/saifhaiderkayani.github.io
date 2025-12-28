@@ -44,19 +44,16 @@ Baha-Ud-Din Zakriya University, Pakistan
 - Funding: $0.2M
 - Ministry of Trade, Industry and Energy, South Korea
 - Principle Investigator: Young-Hee Cho  
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 <h3 align="justify"> Development of 200℃/250MPa grade composite aluminum casting alloy and brake disc/friction material manufacturing technology. <i>(2022 - 2026)</i> </h3>
 - Funding: $0.2M
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Jung-Moo Lee          
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 <h3 align="justify"> Development of eco-friendly aluminum material technology to ease impurity regulations. <i>(2021 - 2026)</i> </h3>
 - Funding: $0.9M
 - Ministry of Science and ICT, South Korea
 - Principle Investigator: Young-Hee Cho         
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
@@ -257,11 +254,11 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
 <p align="justify"> 2020 Outstanding Oral Presentation (Structural Materials), <i>Materials Research Society-Korea</i>. <br/>
  
 <h3>Scientific Awards</h3>
-<p align="justify" style="margin:1;"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+<p align="justify" style="margin:2;"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
              <img src="assets/2024_kim_award.png"  alt="Figure description"  width="500"/>
-<p align="justify" style="margin:1;"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+<p align="justify" style="margin:2;"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
              <img src="assets/2023_kim_award.png"  alt="Figure description"  width="500"/>
-<p align="justify" style="margin:1;"> 2022 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+<p align="justify" style="margin:2;"> 2022 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
              <img src="assets/2022_kim_award.png"  alt="Figure description"  width="500"/>
 
 <h3>Editorial Positions</h3>
