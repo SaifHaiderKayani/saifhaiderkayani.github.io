@@ -46,15 +46,11 @@ Baha-Ud-Din Zakriya University, Pakistan
 - Principle Investigator: Young-Hee Cho  
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 <h3 align="justify"> Development of 200℃/250MPa grade composite aluminum casting alloy and brake disc/friction material manufacturing technology. <i>(2022 - 2026)</i> </h3>
 - Funding: $0.2M
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Jung-Moo Lee          
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 <h3 align="justify"> Development of eco-friendly aluminum material technology to ease impurity regulations. <i>(2021 - 2026)</i> </h3>
 - Funding: $0.9M
@@ -69,8 +65,6 @@ Baha-Ud-Din Zakriya University, Pakistan
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Kwangjun Euh         
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 <h2> Patents </h2>
 
