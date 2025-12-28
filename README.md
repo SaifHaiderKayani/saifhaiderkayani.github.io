@@ -263,11 +263,11 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
 <p align="justify"> 2020 Outstanding Oral Presentation (Structural Materials), <i>Materials Research Society-Korea</i>. <br/>
  
 <h3>Scientific Awards</h3>
-<p align="justify"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+<p align="justify" style="margin:1;"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
              <img src="assets/2024_kim_award.png"  alt="Figure description"  width="500"/>
-<p align="justify"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+<p align="justify" style="margin:1;"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
              <img src="assets/2023_kim_award.png"  alt="Figure description"  width="500"/>
-<p align="justify"> 2022 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+<p align="justify" style="margin:1;"> 2022 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
              <img src="assets/2022_kim_award.png"  alt="Figure description"  width="500"/>
 
 <h3>Editorial Positions</h3>
