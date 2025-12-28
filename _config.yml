@@ -18,7 +18,7 @@ description: >
       <img src="/assets/scopus_logo.png" style="height:22px;">
     </a>
     <a href="https://www.webofscience.com/wos/author/record/ABA-1504-2021" target="_blank" rel="noopener">
-      <img src="/assets/clarivate.png" style="height:25px;">
+      <img src="/assets/clarivate.png" style="height:30px;">
     </a>
 #show_downloads: true
 theme: jekyll-theme-minimal
