@@ -302,23 +302,23 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 <p align="justify" style="margin:0;">- Scanning Electron Microscopy <i>(Certified user Jeol, JSM 6610 at KIMS, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- Electron Backscatter Diffraction Analysis <i>(Certified user Jeol JSM 7900F at CWNU and GNU, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- Electron channeling contrast imaging <i>(Certified user Thermo Fisher, Apreo S at GNU, South Korea)</i><br/>
-<p align="justify" style="margin:0;">- Focused Ion Beam – Micro-Pillar Fabrication <i>(Certified user TESCAN, MIRA at GNU, South Korea)</i> <br/>
+<p align="justify" style="margin:0;">- Focused Ion Beam – Micro-Pillar Fabrication <i>(Certified user TESCAN, MIRA at GNU, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- TEM sample Preparation <i>(Certified user PIPS, Twin Jet Electro and Dimple Polishing, at KIMS, South Korea)</i><br/> 
 <p align="justify" style="margin:0;">- Nanoindentation <i>(Certified user Anton Paar, NHT3, at GNU, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- X-ray Diffractometer <i>(Certified user Rigaku, D-max 2500, at KIMS, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- Corrosion Analyses – Potentiodynamic Polarization <i>(Expert user; during Ph. D and Professional career)</i><br/>
 <p align="justify" style="margin:0;">- Metallography, Electro-polishing, and Optical Microscopy <i>(Expert user; during Ph. D and Professional career)</i><br/>
-<p align="justify" style="margin:0;">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i></p><br/>
+<p align="justify" style="margin:0;">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i><br/>
 
 <h3>Software Expertise</h3>
 
-<p align="justify">- GATAN Digital Microscopy <i>(Expert user; Lattice, Precipitation, Diffraction pattern, and FFT analyses)</i>
-<p align="justify">- Factsage, Thermo-Calc <i>(Expert user; Solidification and Phase Diagram analyses)</i>
-<p align="justify">- Geometrical Phase analysis <i>(Expert user; Lattice Strain Analysis)</i> 
-<p align="justify">- Single Crystal, Crystal Diffract, Carine, Vesta structure, TWIST <i>(Expert user; Crystal structure analysis)</i>
-<p align="justify">- MDI Jade <i>(Expert user; XRD peak and phase identification analyses)</i> 
-<p align="justify">- Aztec, INCA, TSL-OIM <i>(Expert user; EDS and EBSD analyses)</i>
-<p align="justify">- XEI <i>(Expert user; SKFM and AFM analyses)</i>
-<p align="justify">- ImageJ, iSolutionDT <i>(Expert user; Image analysis)</i>
-<p align="justify">- Origin Pro <i>(Expert user; Graphing, Data Analysis, Curve Fitting, and Mathematical Function, etc.)</i>
+<p align="justify" style="margin:0;">- GATAN Digital Microscopy <i>(Expert user; Lattice, Precipitation, Diffraction pattern, and FFT analyses)</i><br/>
+<p align="justify" style="margin:0;">- Factsage, Thermo-Calc <i>(Expert user; Solidification and Phase Diagram analyses)</i><br/>
+<p align="justify" style="margin:0;">- Geometrical Phase analysis <i>(Expert user; Lattice Strain Analysis)</i><br/> 
+<p align="justify" style="margin:0;">- Single Crystal, Crystal Diffract, Carine, Vesta structure, TWIST <i>(Expert user; Crystal structure analysis)</i><br/>
+<p align="justify" style="margin:0;">- MDI Jade <i>(Expert user; XRD peak and phase identification analyses)</i><br/> 
+<p align="justify" style="margin:0;">- Aztec, INCA, TSL-OIM <i>(Expert user; EDS and EBSD analyses)</i><br/>
+<p align="justify" style="margin:0;">- XEI <i>(Expert user; SKFM and AFM analyses)</i><br/>
+<p align="justify" style="margin:0;">- ImageJ, iSolutionDT <i>(Expert user; Image analysis)</i><br/>
+<p align="justify" style="margin:0;">- Origin Pro <i>(Expert user; Graphing, Data Analysis, Curve Fitting, and Mathematical Function, etc.)</i><br/>
 
