@@ -219,44 +219,44 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
 
 <h3>International</h3>
 
-1. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy.
-**Saif Haider Kayani**, Jung-Moo Lee, Kwangjun Euh, Dongwon Shin, Young-Hee Cho, Gang Sha
-***The 23rd Conference on International Exchange of Professionals***, 2025.
-2. Sustainable Development of Aluminum alloys via Melt Thermal treatment.
-**Saif Haider Kayani**, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho
-***The 8th International Conference on Electronic Materials and Nanotechnology for Green Environment***, 2024.
-3. Dislocation-assisted Localized Corrosion Behavior of Intermetallic particles in Al alloys.
-**Saif Haider Kayani**, Young-Hee Cho, Heon-Young Ha, Jung-Moo Lee
-***The 8th International Conference on Electronic Materials and Nanotechnology for Green Environment***, 2024.
-4. Effect of As-cast microstructure on Precipitation behavior and Thermal conductivity of Al-Si-Mg alloys.
-**Saif Haider Kayani**, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho
-***The 75th World Foundry Congress (WFC)***, 2024.
-5. Nano-scale co-precipitation Mechanism in Al‒Si‒Mg Alloys.
-**Saif Haider Kayani**, Sang-Ik Lee, Yoon-Hee Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho
-***The 22nd International Nanotech Symposium***, 2024.
-6. Exploring Corrosion Behavior of Al‒Si‒Mg Alloys: Role of Intermetallic Phases.
-**Saif Haider Kayani**, Young-Hee Cho, Hyeon-Young Ha, Jung-Moo Lee
-***The 22nd International Nanotech Symposium***, 2024.
-7. The Interplay of Precipitation Hardening and Conductivity in Al-Si-Mg Alloys.
-**Saif Haider Kayani**, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho
-***Global Conference on Innovation Materials (GCIM)***, 2024.
-8. Exploring Corrosion Behavior of Al‒Si‒Mg Alloys: Role of Intermetallic Phases.
-**Saif Haider Kayani**, Young-Hee Cho, Hyeon-Young Ha, Jung-Moo Lee
-***Global Conference on Innovation Materials (GCIM)***, 2024.
-9. Effect of initial microstructure on age-hardenability and thermal conductivity of Al-7Si-0.35Mg alloy.
-**Saif Haider Kayani**, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho
-***The 11th Pacific Rim International Conference on Advanced Materials and Processing (PRICM11)***, 2023.
-10. Dislocation-aided Localized Pitting Corrosion of Intermetallic Particles in Al‒Si‒Mg‒Cu‒Mn Alloy.
-**Saif Haider Kayani**, Young-Hee Cho, Ju-Hyun Sun, Lee-Cheol Ji, Jung-Moo Lee
-***The 20th International Microscopy Congress (IMC20)***, 2023.
-11. Impact of Solidification-Induced Pre-Precipitation on the Age-Hardenability and Thermal Conductivity of Al‒7Si‒0.35Mg Alloy.
-**Saif Haider Kayani**, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho
-***The 20th International Microscopy Congress (IMC20)***, 2023.
-12. Effect of solution treatment on microstructure and mechanical behavior of precipitation-hardened Al-Zn-Mg-Cu alloy.
-**Saif Haider Kayani**, Jae Bok Seol, Jung Gi Kim, Kwangjun Euh, Hyokyung Sung
-***30th International Symposium on Technology of Plasticity***, 2021.
+<p align="justify"> 1. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
+<b>Saif Haider Kayani</b>, Jung-Moo Lee, Kwangjun Euh, Dongwon Shin, Young-Hee Cho, Gang Sha <br/>
+<i>The 23rd Conference on International Exchange of Professionals, 2025</i>.<br/> 
+<p align="justify"> 2. Sustainable Development of Aluminum alloys via Melt Thermal treatment. <br/>
+<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <br/>
+<i>The 8th International Conference on Electronic Materials and Nanotechnology for Green Environment, 2024</i>.<br/> 
+<p align="justify"> 3. Dislocation-assisted Localized Corrosion Behavior of Intermetallic particles in Al alloys. <br/>
+<b>Saif Haider Kayani</b>, Young-Hee Cho, Heon-Young Ha, Jung-Moo Lee <br/>
+<i>The 8th International Conference on Electronic Materials and Nanotechnology for Green Environment, 2024</i>.<br/> 
+<p align="justify"> 4. Effect of As-cast microstructure on Precipitation behavior and Thermal conductivity of Al-Si-Mg alloys. <br/>
+<b>Saif Haider Kayani</b>, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho <br/>
+<i>The 75th World Foundry Congress (WFC), 2024</i>.<br/>
+<p align="justify"> 5. Nano-scale co-precipitation Mechanism in Al‒Si‒Mg Alloys. <br/>
+<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Hee Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <br/>
+<i>The 22nd International Nanotech Symposium, 2024</i>.<br/>
+<p align="justify"> 6. Exploring Corrosion Behavior of Al‒Si‒Mg Alloys: Role of Intermetallic Phases. <br/>
+<b>Saif Haider Kayani</b>, Young-Hee Cho, Hyeon-Young Ha, Jung-Moo Lee <br/>
+<i>The 22nd International Nanotech Symposium, 2024</i>.<br/>
+<p align="justify"> 7. The Interplay of Precipitation Hardening and Conductivity in Al-Si-Mg Alloys. <br/>
+<b>Saif Haider Kayani</b>, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho <br/>
+<i>Global Conference on Innovation Materials (GCIM), 2024</i>.<br/>
+<p align="justify"> 8. Exploring Corrosion Behavior of Al‒Si‒Mg Alloys: Role of Intermetallic Phases. <br/>
+<b>Saif Haider Kayani</b>, Young-Hee Cho, Hyeon-Young Ha, Jung-Moo Lee <br/>
+<i>Global Conference on Innovation Materials (GCIM), 2024</i>.<br/>
+<p align="justify"> 9. Effect of initial microstructure on age-hardenability and thermal conductivity of Al-7Si-0.35Mg alloy. <br/>
+<b>Saif Haider Kayani</b>, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho <br/>
+<i>The 11th Pacific Rim International Conference on Advanced Materials and Processing (PRICM11), 2023</i>.<br/>
+<p align="justify"> 10. Dislocation-aided Localized Pitting Corrosion of Intermetallic Particles in Al‒Si‒Mg‒Cu‒Mn Alloy. <br/>
+<b>Saif Haider Kayani</b>, Young-Hee Cho, Ju-Hyun Sun, Lee-Cheol Ji, Jung-Moo Lee <br/>
+<i>The 20th International Microscopy Congress (IMC20), 2023</i>.<br/>
+<p align="justify"> 11. Impact of Solidification-Induced Pre-Precipitation on the Age-Hardenability and Thermal Conductivity of Al‒7Si‒0.35Mg Alloy. <br/>
+<b>Saif Haider Kayani</b>, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho <br/>
+<i>The 20th International Microscopy Congress (IMC20), 2023</i>.<br/>
+<p align="justify"> 12. Effect of solution treatment on microstructure and mechanical behavior of precipitation-hardened Al-Zn-Mg-Cu alloy. <br/>
+<b>Saif Haider Kayani</b>, Jae Bok Seol, Jung Gi Kim, Kwangjun Euh, Hyokyung Sung <br/>
+<i>30th International Symposium on Technology of Plasticity, 2021</i>.<br/>
 
-### Domestic
+<h3>Domestic</h3>
 
 13. (2018-2025) Presented at Spring and Fall Meetings of ***the Korea Institute of Metals and Materials***, South Korea.
 14. (2020-2022) Presented at Spring and Fall Meetings of ***the Materials Research Society- Korea***, South Korea.
