@@ -300,15 +300,15 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 
 <p align="justify" style="margin:0;">- Transmission Electron Microscopy <i>(Certified user FEI, TF30ST at GNU, South Korea)</i><br/>
 <p align="justify" style="margin:0;">- Scanning Electron Microscopy <i>(Certified user Jeol, JSM 6610 at KIMS, South Korea)</i><br/>
-<p align="justify">- Electron Backscatter Diffraction Analysis <i>(Certified user Jeol JSM 7900F at CWNU and GNU, South Korea)</i>
-<p align="justify">- Electron channeling contrast imaging <i>(Certified user Thermo Fisher, Apreo S at GNU, South Korea)</i>
-<p align="justify">- Focused Ion Beam – Micro-Pillar Fabrication <i>(Certified user TESCAN, MIRA at GNU, South Korea)</i> 
-<p align="justify">- TEM sample Preparation <i>(Certified user PIPS, Twin Jet Electro and Dimple Polishing, at KIMS, South Korea)</i> 
-<p align="justify">- Nanoindentation <i>(Certified user Anton Paar, NHT3, at GNU, South Korea)</i>
-<p align="justify">- X-ray Diffractometer <i>(Certified user Rigaku, D-max 2500, at KIMS, South Korea)</i>
-<p align="justify">- Corrosion Analyses – Potentiodynamic Polarization <i>(Expert user; during Ph. D and Professional career)</i>
-<p align="justify">- Metallography, Electro-polishing, and Optical Microscopy <i>(Expert user; during Ph. D and Professional career)</i>
-<p align="justify">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i></p>
+<p align="justify" style="margin:0;">- Electron Backscatter Diffraction Analysis <i>(Certified user Jeol JSM 7900F at CWNU and GNU, South Korea)</i><br/>
+<p align="justify" style="margin:0;">- Electron channeling contrast imaging <i>(Certified user Thermo Fisher, Apreo S at GNU, South Korea)</i><br/>
+<p align="justify" style="margin:0;">- Focused Ion Beam – Micro-Pillar Fabrication <i>(Certified user TESCAN, MIRA at GNU, South Korea)</i> <br/>
+<p align="justify" style="margin:0;">- TEM sample Preparation <i>(Certified user PIPS, Twin Jet Electro and Dimple Polishing, at KIMS, South Korea)</i><br/> 
+<p align="justify" style="margin:0;">- Nanoindentation <i>(Certified user Anton Paar, NHT3, at GNU, South Korea)</i><br/>
+<p align="justify" style="margin:0;">- X-ray Diffractometer <i>(Certified user Rigaku, D-max 2500, at KIMS, South Korea)</i><br/>
+<p align="justify" style="margin:0;">- Corrosion Analyses – Potentiodynamic Polarization <i>(Expert user; during Ph. D and Professional career)</i><br/>
+<p align="justify" style="margin:0;">- Metallography, Electro-polishing, and Optical Microscopy <i>(Expert user; during Ph. D and Professional career)</i><br/>
+<p align="justify" style="margin:0;">- Electric Arc Melting and Vacuum Furnaces <i>(Occasional operator; during Ph. D and MS work)</i></p><br/>
 
 <h3>Software Expertise</h3>
 
