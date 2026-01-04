@@ -188,7 +188,7 @@ Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, <b
 
 <h3>Under submission</h3>
 
-<p align="justify"> 34. Atomic structure of  precipitates in high-Si containing Al-Si-Mg alloy. <br/>
+<p align="justify"> 34. Atomic structure of β″ precipitates in high-Si containing Al-Si-Mg alloy. <br/>
 <b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <i>(under review)</i> <br/>
 <p align="justify"> 35. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
 <b>Saif Haider Kayani</b>, Dongwon Shin, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <i>(under submission)</i> <br/>
