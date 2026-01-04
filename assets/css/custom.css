@@ -2,7 +2,7 @@
 
 /* Add top padding so the name is not stuck to the top */
 header{
-  padding-top: 15px !important;     /* increase top gap above name */
+  padding-top: 10px !important;     /* increase top gap above name */
   padding-bottom: 10px !important;
 }
 
@@ -19,13 +19,13 @@ header img{
 
 /* Reduce space above and below the icon row (your flex div) */
 header div[style*="display:flex"]{
-  margin-top: 4px !important;
-  margin-bottom: 2px !important;
+  margin-top: 2px !important;
+  margin-bottom: 0px !important;
 }
 
 /* Citation block: reduce top gap and shrink height so everything fits */
 .citation-img{
-  margin: 2px auto 0 auto !important;   /* smaller gap from icons */
+  margin: 5px auto 0 auto !important;   /* smaller gap from icons */
   height: 200px !important;            /* adjust: 150–190 */
   width: auto;
   max-width: 100%;
