@@ -23,10 +23,12 @@ description: >
     </a>
   </div>
 
-  <div style="margin-top:14px;">
-    <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
-      <img src="/assets/citations.png" alt="Google Scholar metrics" style="height:80px; max-width:100%;">
-    </a>
-  </div>
+  <div style="margin-top:16px; text-align:center;">
+  <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
+    <img src="/assets/citations.png"
+         alt="Google Scholar metrics"
+         style="height:140px; width:auto; max-width:100%; display:inline-block;">
+  </a>
+</div>
 
 theme: jekyll-theme-minimal
