@@ -6,7 +6,7 @@ header{
   position: fixed !important;
 
   /* moderate top spacing (not too close to the top) */
-  top: 30px !important;
+  top: 50px !important;
 
   /* moderate internal padding */
   padding-top: 0px !important;
@@ -34,7 +34,7 @@ header div[style*="display:flex"]{
 .citation-img{
   display: block;
   margin-top: 4px !important;
-  margin-bottom: 16px !important;
+  margin-bottom: 10px !important;
   height: 190px !important;     /* adjust: 170–210 */
   width: auto;
   max-width: 100%;
