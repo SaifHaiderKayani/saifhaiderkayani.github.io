@@ -1,32 +1,32 @@
 title: Saif Haider Kayani
 logo: /assets/headshot_circle.jpg
+
 description: >
   <div style="margin-top:10px; display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-  <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
-    <img src="/assets/google_scholar_logo.png" style="height:22px;">
-  </a>
-  <a href="https://www.linkedin.com/in/saif-haider-kayani-phd-22409961/" target="_blank" rel="noopener">
-      <img src="/assets/linkedIn_logo.png" style="height:22px;">
+    <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
+      <img src="/assets/google_scholar_logo.png" alt="Google Scholar" style="height:22px;">
+    </a>
+    <a href="https://www.linkedin.com/in/saif-haider-kayani-phd-22409961/" target="_blank" rel="noopener">
+      <img src="/assets/linkedIn_logo.png" alt="LinkedIn" style="height:22px;">
     </a>
     <a href="https://www.researchgate.net/profile/Saif-Kayani?ev=hdr_xprf" target="_blank" rel="noopener">
-      <img src="/assets/researchgate.png" style="height:22px;">
+      <img src="/assets/researchgate.png" alt="ResearchGate" style="height:22px;">
     </a>
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-7945-5934" target="_blank" rel="noopener">
-      <img src="/assets/orcid.png" style="height:22px;">
+    <a href="https://orcid.org/0000-0002-7945-5934" target="_blank" rel="noopener">
+      <img src="/assets/orcid.png" alt="ORCID" style="height:22px;">
     </a>
     <a href="https://www.scopus.com/authid/detail.uri?authorId=57191869471" target="_blank" rel="noopener">
-      <img src="/assets/scopus_logo.png" style="height:22px;">
+      <img src="/assets/scopus_logo.png" alt="Scopus" style="height:22px;">
     </a>
     <a href="https://www.webofscience.com/wos/author/record/ABA-1504-2021" target="_blank" rel="noopener">
-      <img src="/assets/clarivate.png" style="height:30px;">
-    </a>
-    </div>
-
-<div style="margin-top:14px;">
-    <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
-      <img src="./assets/citations.png" alt="Google Scholar citation metrics" style="height:80px; max-width:100%;">
+      <img src="/assets/clarivate.png" alt="Web of Science" style="height:30px;">
     </a>
   </div>
-    
-#show_downloads: true
+
+  <div style="margin-top:14px;">
+    <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
+      <img src="/assets/citations.png" alt="Google Scholar metrics" style="height:80px; max-width:100%;">
+    </a>
+  </div>
+
 theme: jekyll-theme-minimal
