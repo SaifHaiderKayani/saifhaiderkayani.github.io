@@ -20,7 +20,13 @@ description: >
     <a href="https://www.webofscience.com/wos/author/record/ABA-1504-2021" target="_blank" rel="noopener">
       <img src="/assets/clarivate.png" style="height:30px;">
     </a>
-image: /assets/citations.png
+    </div>
+
+<div style="margin-top:14px;">
+    <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
+      <img src="./assets/citations.png" alt="Google Scholar citation metrics" style="height:80px; max-width:100%;">
+    </a>
+  </div>
     
 #show_downloads: true
 theme: jekyll-theme-minimal
