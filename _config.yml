@@ -2,7 +2,7 @@ title: Saif Haider Kayani
 logo: /assets/headshot_circle.jpg
 
 description: >
-  <div style="margin-top:10px; display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+  <div style="margin-top:10px; display:flex; gap:10px; justify-content:center; align-items:center; flex-wrap:wrap;">
     <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
       <img src="/assets/google_scholar_logo.png" alt="Google Scholar" style="height:22px;">
     </a>
@@ -24,15 +24,10 @@ description: >
   </div>
 
   <div style="margin-top:16px; display:flex; justify-content:center;">
-  <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
-    <img src="/assets/citations.png"
-         alt="Google Scholar metrics"
-         style="height:300px; width:auto; max-width:100%; display:block;">
+    <a href="https://scholar.google.com/citations?user=RjklPYMAAAAJ&hl=en" target="_blank" rel="noopener">
+      <img src="/assets/citations.png" alt="Google Scholar metrics"
+           style="height:300px; width:auto; max-width:100%; display:block;">
     </a>
-    </div>
-
-    <style>
-  footer { display: none !important; }
-</style>
+  </div>
 
 theme: jekyll-theme-minimal
