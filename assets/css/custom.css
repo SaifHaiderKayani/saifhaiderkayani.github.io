@@ -26,7 +26,7 @@ header div[style*="display:flex"]{
 /* Citation block: reduce top gap and shrink height so everything fits */
 .citation-img{
   margin-top: 2px !important;
-  margin-bottom: 10px !important;   /* adds space under the citation */
+  margin-bottom: 20px !important;   /* adds space under the citation */
   height: 200px !important;            /* adjust: 150–190 */
   width: auto;
   max-width: 100%;
