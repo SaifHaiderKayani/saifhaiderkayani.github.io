@@ -2,7 +2,7 @@
 
 /* Add top padding so the name is not stuck to the top */
 header{
-  padding-top: 2px !important;     /* was too large */
+  padding-top: 1px !important;     /* was too large */
   padding-bottom: 10px !important;
 }
 
