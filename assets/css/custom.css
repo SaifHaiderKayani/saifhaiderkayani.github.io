@@ -1,33 +1,41 @@
-/* ====== Sidebar spacing / fit ====== */
+/* ====== Sidebar spacing / fit (moderate top + bottom) ====== */
 
-/* Add top padding so the name is not stuck to the top */
+/* Moderate spacing above/below the whole sidebar block */
 header{
-  padding-top: 1px !important;     /* was too large */
-  padding-bottom: 10px !important;
+  /* keep fixed sidebar behavior */
+  position: fixed !important;
+
+  /* moderate top spacing (not too close to the top) */
+  top: 10px !important;
+
+  /* moderate internal padding */
+  padding-top: 0px !important;
+  padding-bottom: 18px !important;
 }
 
-/* Make the gap between name (h1) and photo smaller */
+/* Moderate gap between name and photo */
 header h1{
-  margin: 0 0 8px 0 !important;     /* small gap under name */
+  margin: 0 0 6px 0 !important;
 }
 
-/* Photo: reduce extra whitespace around it */
+/* Photo: keep a tight but clean gap */
 header img{
-  margin-top: 6px !important;
-  margin-bottom: 10px !important;
+  margin-top: 4px !important;
+  margin-bottom: 8px !important;
 }
 
-/* Reduce space above and below the icon row (your flex div) */
+/* Social icons row: reduce extra whitespace */
 header div[style*="display:flex"]{
   margin-top: 2px !important;
-  margin-bottom: 0px !important;
+  margin-bottom: 2px !important;
 }
 
-/* Citation block: reduce top gap and shrink height so everything fits */
+/* Citation image: small gap from icons, moderate bottom breathing room */
 .citation-img{
-  margin-top: 2px !important;
-  margin-bottom: 20px !important;   /* adds space under the citation */
-  height: 200px !important;            /* adjust: 150–190 */
+  display: block;
+  margin-top: 4px !important;
+  margin-bottom: 16px !important;
+  height: 190px !important;     /* adjust: 170–210 */
   width: auto;
   max-width: 100%;
 }
@@ -35,7 +43,7 @@ header div[style*="display:flex"]{
 /* Remove "Hosted on GitHub Pages — Theme by orderedlist" footer */
 footer,
 footer p,
-footer a {
+footer a{
   display: none !important;
   visibility: hidden !important;
   height: 0 !important;
