@@ -30,7 +30,9 @@ header div[style*="display:flex"]{
   width: auto;
   max-width: 100%;
 }
-
+@media (max-height: 800px){
+  .citation-img{ height: 150px !important; }
+}
 /* Remove the small triangle / scroll artifact if it appears */
 header{ overflow-y: hidden !important; } /* remove sidebar scrollbar */
 
