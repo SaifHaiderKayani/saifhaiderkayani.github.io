@@ -1,30 +1,22 @@
-/* ---- LEFT SIDEBAR (PROFILE) ---- */
+/* Keep left sidebar visible while scrolling */
 header {
-  position: sticky;        /* stays visible */
+  position: sticky;
   top: 0;
-  max-height: 100vh;       /* never exceed viewport height */
-  overflow-y: auto;        /* scroll inside if needed */
+  max-height: 100vh;
+  overflow-y: auto;      /* if sidebar content is tall, scroll inside it */
   padding-bottom: 20px;
 }
 
-/* Improve scrollbar appearance (optional, subtle) */
-header::-webkit-scrollbar {
-  width: 6px;
-}
-header::-webkit-scrollbar-thumb {
-  background: #ccc;
-  border-radius: 3px;
-}
-
-/* ---- CENTER CITATION IMAGE ---- */
+/* Center and size your citation image */
 .citation-img {
   display: block;
   margin: 16px auto 0 auto;
-  height: 220px;           /* adjust to taste */
+  height: 220px;         /* adjust: 180–280 */
+  width: auto;
   max-width: 100%;
 }
 
-/* ---- REMOVE THEME FOOTER ---- */
+/* Remove footer credit */
 footer {
   display: none !important;
 }
