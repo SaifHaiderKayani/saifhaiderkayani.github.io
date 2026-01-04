@@ -1,1 +1,29 @@
+/* 1) Make left sidebar scroll with page (remove fixed positioning) */
+header {
+  position: static !important;
+}
+
+/* The theme also fixes footer; we will hide it anyway */
+footer {
+  position: static !important;
+}
+
+/* 2) Remove the theme footer text entirely */
+footer {
+  display: none !important;
+}
+
+/* 3) Center the citation image and make it larger */
+header img[alt="Google Scholar metrics"] {
+  display: block;
+  margin: 14px auto 0 auto;
+  height: 300px;        /* adjust: 120–200px */
+  width: auto;
+  max-width: 100%;
+}
+
+header div[style*="display:flex"] {
+  justify-content: center !important;
+}
+
 
