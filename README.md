@@ -253,6 +253,7 @@ Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under 
  
 <h3>Scientific Awards</h3>
 <p align="justify" style="margin:2;"> 2024 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
+<p align="justify" style="margin:2;"> <b>Awarded work</b>
              <img src="assets/2024_kim_award.png"  alt="Figure description"  width="500"/>
 <p align="justify" style="margin:2;"> 2023 Outstanding Contribution in Materials Photography, <i>The Korean Institute of Metals and Materials</i>.<br/>
              <img src="assets/2023_kim_award.png"  alt="Figure description"  width="500"/>
