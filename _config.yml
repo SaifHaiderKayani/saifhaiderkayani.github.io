@@ -31,4 +31,8 @@ description: >
     </a>
     </div>
 
+    <style>
+  footer { display: none !important; }
+</style>
+
 theme: jekyll-theme-minimal
