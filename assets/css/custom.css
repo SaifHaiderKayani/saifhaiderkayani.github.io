@@ -1,63 +1,37 @@
-/* ===== Layout constants (adjust if you want) ===== */
-:root{
-  --wrap: 960px;      /* approximate width of the centered page */
-  --sidebar: 280px;   /* sidebar width */
-  --gap: 40px;        /* space between sidebar and content */
-}
+/* ====== Sidebar spacing / fit ====== */
 
-/* Keep the page centered like the theme */
-.wrapper{
-  max-width: var(--wrap);
-  margin: 0 auto;
-}
-
-/* FIXED sidebar, but aligned to the centered wrapper (not stuck to far left) */
+/* Add top padding so the name is not stuck to the top */
 header{
-  position: fixed !important;
-  top: 0 !important;
-
-  /* This centers the sidebar with the wrapper */
-  left: clamp(0px, (100vw - var(--wrap))/2, 9999px) !important;
-
-  width: var(--sidebar) !important;
-  max-height: 100vh;
-  overflow-y: auto;              /* sidebar scroll if it gets tall */
-  padding-bottom: 16px;
-
-  background: #fff;
-  z-index: 999;
+  padding-top: 18px !important;     /* increase top gap above name */
+  padding-bottom: 10px !important;
 }
 
-/* Push main content to the right by sidebar width + gap */
-section{
-  margin-left: calc(var(--sidebar) + var(--gap)) !important;
+/* Make the gap between name (h1) and photo smaller */
+header h1{
+  margin: 0 0 8px 0 !important;     /* small gap under name */
 }
 
-/* Citation image sizing/centering */
+/* Photo: reduce extra whitespace around it */
+header img{
+  margin-top: 6px !important;
+  margin-bottom: 10px !important;
+}
+
+/* Reduce space above and below the icon row (your flex div) */
+header div[style*="display:flex"]{
+  margin-top: 6px !important;
+  margin-bottom: 6px !important;
+}
+
+/* Citation block: reduce top gap and shrink height so everything fits */
 .citation-img{
-  display: block;
-  margin: 16px auto 0 auto;
-  height: 220px;                 /* adjust */
+  margin: 8px auto 0 auto !important;   /* smaller gap from icons */
+  height: 170px !important;            /* adjust: 150–190 */
   width: auto;
   max-width: 100%;
 }
 
-/* Remove footer credit */
-footer{
-  display: none !important;
-}
+/* Remove the small triangle / scroll artifact if it appears */
+header{ overflow-y: hidden !important; } /* remove sidebar scrollbar */
 
-/* Mobile: stack layout normally */
-@media (max-width: 960px){
-  header{
-    position: static !important;
-    left: auto !important;
-    width: auto !important;
-    max-height: none;
-    overflow: visible;
-    background: transparent;
-  }
-  section{
-    margin-left: 0 !important;
-  }
-}
+header{ overflow-y: auto !important; }
