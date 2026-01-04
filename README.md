@@ -4,17 +4,17 @@
 
 <h2> Education </h2>
 
-<p align="justify">Ph.D., Advanced Materials Engineering <i>(Aug 2020)</i> <br/>
+<p align="justify">- Ph.D., Advanced Materials Engineering <i>(Aug 2020)</i> <br/>
 University of Science and Technology, South Korea  					       		
-<p align="justify">M.S., Materials Engineering & Nanotechnology <i>(June 2015)</i> <br/>
+<p align="justify">- M.S., Materials Engineering & Nanotechnology <i>(June 2015)</i> <br/>
 GIK Institute of Engineering Sciences and Technology, Pakistan			        		
-<p align="justify">B.S., Metallurgy and Materials Engineering <i>(Sep 2012)</i> <br/>
+<p align="justify">- B.S., Metallurgy and Materials Engineering <i>(Sep 2012)</i> <br/>
 Baha-Ud-Din Zakriya University, Pakistan
 
 <h2> Work Experience </h2>
 
 <h3> Post-doctoral Fellow @ Nanjing university of Science and Technology <i>(Sep 2025 - Present)</i> </h3>
-- <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
+ <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
 - <p align="justify"> Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
 
