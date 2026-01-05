@@ -37,12 +37,12 @@
   </a>
 
   <a href="/research/ai-alloy-design.html" style="text-align:center; text-decoration:none; color:inherit;">
-    <img src="/assets/research/ai_alloy_design.png" alt="AI-Driven Alloy Design" style="width:100%; border-radius:8px;">
+    <img src="/assets/research/ai-alloy-design.png" alt="AI-Driven Alloy Design" style="width:100%; border-radius:8px;">
     <div style="margin-top:8px; font-weight:600;">AI-Driven Alloy Design</div>
   </a>
 
   <a href="/research/electron-microscopy.html" style="text-align:center; text-decoration:none; color:inherit;">
-    <img src="/assets/research/electron_microscopy.png" alt="Advanced Electron Microscopy" style="width:100%; border-radius:8px;">
+    <img src="/assets/research/electron-microscopy.png" alt="Advanced Electron Microscopy" style="width:100%; border-radius:8px;">
     <div style="margin-top:8px; font-weight:600;">Advanced Electron Microscopy</div>
   </a>
 
