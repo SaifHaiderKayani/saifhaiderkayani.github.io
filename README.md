@@ -48,7 +48,7 @@
 
 </div>
 
-<h2 style="margin-top:30px;"><b>Résumé</b></h2>
+<h1 style="margin-top:30px;"><b>Résumé</b></h1>
 
 <h2>Education</h2>
 
