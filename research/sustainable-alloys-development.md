@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sustainable Alloy Design & Recycling
+title: Sustainable Alloys Development
 ---
 
 # Sustainable Alloy Design & Recycling
