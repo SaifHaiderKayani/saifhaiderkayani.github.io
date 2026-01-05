@@ -2,10 +2,9 @@
 
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
- 
-<h2>Research Highlights</h2>
+<h2 style="margin-bottom:18px;">Research Highlights</h2>
 
-<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:18px; margin-top:18px;">
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:18px; margin-top:18px; margin-bottom:18px;">
 
   <a href="/research/sustainable-alloys-development.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/sustainable-alloys-development.png" alt="Sustainable Alloys Development" style="width:100%; border-radius:8px;">
@@ -320,7 +319,7 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
   <a href="https://www.mdpi.com/journal/crystals/special_issues/S5C0663330"> 2nd Edition</a> 
   <a href="https://www.mdpi.com/journal/crystals/special_issues/893EISHRKS"> 3rd Edition</a>
 <p align="justify" style="margin:0;"><b>Edited Book (reprint):</b> Microstructure and Mechanical Behaviour of Structural Materials, MDPI, <i>2025</i>.<br/>
-<p align="justify">ISBN:978-3-7258-6027-2 (Hardback)<a href="https://www.mdpi.com/books/reprint/12060-microstructure-and-mechanical-behaviour-of-structural-materials"> DOI</a><br/>
+<p align="justify">ISBN:978-3-7258-6027-2 (Hardbook)<a href="https://www.mdpi.com/books/reprint/12060-microstructure-and-mechanical-behaviour-of-structural-materials"> DOI</a><br/>
 
 
 <h3>Peer Review Positions</h3>
