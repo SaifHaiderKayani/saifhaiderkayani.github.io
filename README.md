@@ -4,7 +4,7 @@
 
 <h2>Research Highlights</h2>
 
-<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap:18px; margin-top:10px;">
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:18px; margin-top:10px;">
 
   <a href="/research/sustainable-alloys-development.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/sustainable-alloys-development.png" alt="Sustainable Alloys Development" style="width:100%; border-radius:8px;">
