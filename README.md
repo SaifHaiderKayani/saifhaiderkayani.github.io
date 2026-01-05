@@ -4,10 +4,6 @@
 
 <h2>Research Highlights</h2>
 
-<p align="justify" style="margin-top:6px; margin-bottom:12px;">
-Selected research directions highlighting alloy design, microstructure–property relationships, and advanced characterization.
-</p>
-
 <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap:18px; margin-top:10px;">
 
   <a href="/research/sustainable-alloys.html" style="text-align:center; text-decoration:none; color:inherit;">
@@ -51,6 +47,7 @@ Selected research directions highlighting alloy design, microstructure–propert
   </a>
 
 </div>
+
 
 <h1> Résumé </h1>
 
