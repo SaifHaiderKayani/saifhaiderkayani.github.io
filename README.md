@@ -2,49 +2,53 @@
 
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
-<h1>Research Highlights</h1> 
+<h2>Research Highlights</h2>
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:18px; margin-top:16px;">
+<p align="justify" style="margin-top:6px; margin-bottom:12px;">
+Selected research directions highlighting alloy design, microstructure–property relationships, and advanced characterization.
+</p>
 
-<a href="/research/sustainable-alloys.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/sustainable_alloys.png" alt="Sustainable Alloy Design & Recycling" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">Sustainable Alloy Design & Recycling</div>
-</a>
+<div style="display:grid; grid-template-columns: repeat(4, 1fr); gap:18px; margin-top:10px;">
 
-<a href="/research/high-strength-al.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/high_strength_al.png" alt="High-Strength Aluminum Alloys" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">High-Strength Aluminum Alloys</div>
-</a>
+  <a href="/research/sustainable-alloys.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/sustainable_alloys.png" alt="Sustainable Alloy Design & Recycling" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">Sustainable Alloy Design & Recycling</div>
+  </a>
 
-<a href="/research/ev-lightweighting.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/ev_lightweighting.png" alt="Lightweight Materials for Electric Vehicles" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">Lightweight Materials for Electric Vehicles</div>
-</a>
+  <a href="/research/high-strength-al.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/high_strength_al.png" alt="High-Strength Aluminum Alloys" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">High-Strength Aluminum Alloys</div>
+  </a>
 
-<a href="/research/extreme-environments.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/extreme_environments.png" alt="Materials for Extreme Environments" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">Materials for Extreme Environments</div>
-</a>
+  <a href="/research/ev-lightweighting.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/ev_lightweighting.png" alt="Lightweight Materials for Electric Vehicles" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">Lightweight Materials for Electric Vehicles</div>
+  </a>
 
-<a href="/research/microstructure-engineering.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/microstructure_refinement.png" alt="Microstructure Engineering & Refinement" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">Microstructure Engineering & Refinement</div>
-</a>
+  <a href="/research/extreme-environments.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/extreme_environments.png" alt="Materials for Extreme Environments" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">Materials for Extreme Environments</div>
+  </a>
 
-<a href="/research/deformation-mechanisms.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/deformation.png" alt="Microscopic Deformation Mechanisms" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">Microscopic Deformation Mechanisms</div>
-</a>
+  <a href="/research/microstructure-engineering.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/microstructure_refinement.png" alt="Microstructure Engineering & Refinement" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">Microstructure Engineering & Refinement</div>
+  </a>
 
-<a href="/research/ai-alloy-design.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/ai_alloy_design.png" alt="AI-Driven Alloy Design" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">AI-Driven Alloy Design</div>
-</a>
+  <a href="/research/deformation-mechanisms.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/deformation_mechanisms.png" alt="Microscopic Deformation Mechanisms" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">Microscopic Deformation Mechanisms</div>
+  </a>
 
-<a href="/research/electron-microscopy.html" style="text-align:center; text-decoration:none; color:inherit;">
-  <img src="/assets/research/electron_microscopy.png" alt="Advanced Electron Microscopy" style="width:100%; border-radius:8px;">
-  <div style="margin-top:8px; font-weight:600;">Advanced Electron Microscopy</div>
-</a>
+  <a href="/research/ai-alloy-design.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/ai_alloy_design.png" alt="AI-Driven Alloy Design" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">AI-Driven Alloy Design</div>
+  </a>
+
+  <a href="/research/electron-microscopy.html" style="text-align:center; text-decoration:none; color:inherit;">
+    <img src="/assets/research/electron_microscopy.png" alt="Advanced Electron Microscopy" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">Advanced Electron Microscopy</div>
+  </a>
 
 </div>
 
