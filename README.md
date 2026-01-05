@@ -2,6 +2,8 @@
 
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
+<p align="justify" style="margin-top:6px; margin-bottom:10px;">
+  
 <h1>Research Highlights</h1>
 
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:18px; margin-top:10px;">
