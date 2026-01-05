@@ -7,8 +7,8 @@
 <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap:18px; margin-top:10px;">
 
   <a href="/research/sustainable-alloys.html" style="text-align:center; text-decoration:none; color:inherit;">
-    <img src="/assets/research/sustainable_alloys.png" alt="Sustainable Alloy Design & Recycling" style="width:100%; border-radius:8px;">
-    <div style="margin-top:8px; font-weight:600;">Sustainable Alloy Design & Recycling</div>
+    <img src="/assets/research/sustainable_alloys.png" alt="Sustainable Alloy Design" style="width:100%; border-radius:8px;">
+    <div style="margin-top:8px; font-weight:600;">Sustainable Alloy Design</div>
   </a>
 
   <a href="/research/high-strength-al.html" style="text-align:center; text-decoration:none; color:inherit;">
