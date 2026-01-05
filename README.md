@@ -2,9 +2,8 @@
 
 #### Technical Skills: Alloy Design, Microstructure, Deformation, Corrosion
 
-<p align="justify" style="margin-top:6px; margin-bottom:10px;">
-  
-<h1>Research Highlights</h1>
+ 
+<h2>Research Highlights</h2>
 
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:18px; margin-top:10px;">
 
@@ -51,9 +50,10 @@
 </div>
 
 
-<h1> Résumé </h1>
 
-<h2> Education </h2>
+<h2><b>Résumé</b></h2>
+
+<h2>Education</h2>
 
 - <p align="justify">Ph.D., Advanced Materials Engineering <i>(Aug 2020)</i> <br/>
   University of Science and Technology, South Korea  					       		
