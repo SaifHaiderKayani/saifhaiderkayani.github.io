@@ -8,49 +8,49 @@
 
   <a href="/research/sustainable-alloys-development.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/sustainable-alloys-development.png" alt="Sustainable Alloys Development"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Sustainable Alloys Development</div>
   </a>
 
   <a href="/research/high_strength_al.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/high_strength_Al.png" alt="High-Strength Aluminum Alloys"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">High-Strength Aluminum Alloys</div>
   </a>
 
   <a href="/research/ev-lightweighting.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/ev-lightweighting.png" alt="Lightweight Materials for Electric Vehicles"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Lightweight Materials for Electric Vehicles</div>
   </a>
 
   <a href="/research/extreme-environments.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/extreme-environments.png" alt="Materials for Extreme Environments"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Materials for Extreme Environments</div>
   </a>
 
   <a href="/research/microstructure-engineering.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/microstructure_refinement.png" alt="Microstructure Engineering & Refinement"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Microstructure Engineering & Refinement</div>
   </a>
 
   <a href="/research/deformation-mechanisms.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/deformation_mechanisms.png" alt="Microscopic Deformation Mechanisms"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Microscopic Deformation Mechanisms</div>
   </a>
 
   <a href="/research/ai-alloy-design.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/ai-alloy-design.png" alt="AI-Driven Alloy Design"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">AI-Driven Alloy Design</div>
   </a>
 
   <a href="/research/electron-microscopy.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/electron-microscopy.png" alt="Advanced Electron Microscopy"
-         style="width:100%; height:200px; object-fit:cover; border-radius:8px; display:block;">
+         style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Advanced Electron Microscopy</div>
   </a>
 
