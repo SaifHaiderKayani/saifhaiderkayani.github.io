@@ -59,7 +59,6 @@
 - Funding: $1.5M
 - Defense Acquisition Program Administration, South Korea
 - Principle Investigator: Kwangjun Euh         
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 <h2> Patents </h2>
 
