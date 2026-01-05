@@ -17,7 +17,7 @@
   </a>
 
   <a href="/research/ev-lightweighting.html" style="text-align:center; text-decoration:none; color:inherit;">
-    <img src="/assets/research/ev_lightweighting.png" alt="Lightweight Materials for Electric Vehicles" style="width:100%; border-radius:8px;">
+    <img src="/assets/research/ev-lightweighting.png" alt="Lightweight Materials for Electric Vehicles" style="width:100%; border-radius:8px;">
     <div style="margin-top:8px; font-weight:600;">Lightweight Materials for Electric Vehicles</div>
   </a>
 
