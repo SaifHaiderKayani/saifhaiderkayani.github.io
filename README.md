@@ -197,7 +197,7 @@ Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, <b
 <p align="justify"> 36. Effect of G phase on thermal hardenability of Duplex stainless steels. <br/>
 Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under submission)</i> <br/>
 
-<h2>Talks</h2> 
+<h2>Conferences</h2> 
 
 <h3>International</h3>
 
