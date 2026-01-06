@@ -21,7 +21,7 @@ title: Sustainable Alloys Development
   <img src="/assets/research/sustainable-alloys-development-1.png" alt="TRT Principle" width="600">
 </p>
 
-<h3>Representative Publications and Conference Presentations</h3>
+<h3>Representative Publications and Presentations</h3>
 
 <p align="justify">- The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy. <br/>
 Sang-Ik Lee†, <b>Saif Haider Kayani†</b>, Yoon-Ho Lee, Byung-Joo Kim, Jung-Moo Lee, Je-In Lee, Kwangjun Euh, Young-Hee Cho <br/>
