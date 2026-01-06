@@ -1,6 +1,6 @@
 ---
 layout: default
-title: High-Strength Aluminum Alloys
+title: high_strength_al
 ---
 
 <h1>High-Strength Aluminum Alloys</h1>
