@@ -23,7 +23,7 @@ title: Microscopic Deformation Mechanisms
 
 <h3>Representative Publications and Presentations</h3>
 
-<p align="justify"> 9. Experimental and crystal plasticity finite element study of the deformation behavior of high-Mn steel micropillars. <br/>
+<p align="justify">- Experimental and crystal plasticity finite element study of the deformation behavior of high-Mn steel micropillars. <br/>
 Sangyul Ha†, <b>Saif Haider Kayani†</b>, Kyungjun Lee, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung <br/>
 <i>Steel Research International 94 (2023) 2200254</i>.<br/> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/srin.202200254"> DOI</a>
 
