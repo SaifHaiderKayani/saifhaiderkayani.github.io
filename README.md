@@ -243,7 +243,13 @@ Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, <b
 <i>Crystals 15(11) (2025) 997</i>.<br/> <a href="https://doi.org/10.3390/cryst15110997"> DOI</a>
 <p align="justify"> 33. Microstructure and Mechanical behavior of Structural Materials. <br/>
 <b>Saif Haider Kayani</b>, Byung-Joo Kim <br/>
-<i>Crystals 14(12) (2024) 1076</i>.<br/> <a href="https://www.mdpi.com/2073-4352/14/12/1076"> DOI</a>                                                     
+<i>Crystals 14(12) (2024) 1076</i>.<br/> <a href="https://www.mdpi.com/2073-4352/14/12/1076"> DOI</a> 
+
+<h3>Conference proceedings</h3>
+
+<p align="justify"> 34. Influence of Thermal-Rate Treatment on Precipitation Evolution and Mechanical Properties of Thermal-Rate Treated Al–10Si–0.35Mg Alloy.<br/>
+Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Young-Hee Cho<br/>
+<i>Light Metals 2025. TMS 2025. The Minerals, Metals & Materials Series. Springer, Cham.</i>.<br/> <a href="https://doi.org/10.1007/978-3-031-80676-6_41"> DOI</a>
 
 <h3>Under submission</h3>
 
