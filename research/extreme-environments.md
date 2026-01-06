@@ -7,10 +7,10 @@ title: Materials for Extreme Environments
 
 <h3>Overview</h3>
 
-<p align="justify">Recycled aluminum alloys often contain elevated Fe and Si, which promotes the formation of Fe–Si–rich intermetallic compounds that degrade ductility and reduce strength-elongation synergy. Melt Thermal Rate Treatment (TRT) addresses this challenge by controlling the melt’s thermal history to increase solute dissolution and improve chemical homogeneity prior to solidification. As a result, Fe–Si–rich intermetallics are refined and more uniformly distributed, while the matrix consists of a more supersaturated and uniform solute state. Consequently, an enhanced precipitation hardening during subsequent aging and translates into higher and more reliable mechanical performance, making TRT a practical pathway for upgrading high-recycled-content aluminum alloys.</p>
+<p align="justify">In materials designed for extreme environments, such as high temperatures and corrosive conditions, intermetallic particles play a critical role in both corrosion behavior and high-temperature deformation. In alloys like Al-Si-Cu-Ni and Al-Si-Mg-Cu-Mn, intermetallics act as cathodic sites that can accelerate pitting corrosion, particularly under chloride exposure, by altering local electrochemical potentials. On the other hand, these particles influence high-temperature tensile properties by interacting with dislocations. While they can enhance strength through dislocation pinning, they may also lead to thermal instability or localized failure. The balance between mechanical strength and corrosion resistance is thus dependent on the distribution and behavior of intermetallics, making them critical for alloy performance in extreme environments.</p>
 
 <p align="center">
-  <img src="/assets/research/ev-lightweighting.png" alt="Lightweight Materials for Electric Vehicles" width="600">
+  <img src="/assets/research/extreme-environments.png" alt="Materials for Extreme Environments" width="600">
 </p>
 
 <h3>Principle of Thermal rate treatment during melting</h3>
