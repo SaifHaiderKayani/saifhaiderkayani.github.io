@@ -18,7 +18,7 @@ title: Materials for Extreme Environments
 <p align="justify">TIn high-strength Al-Zn-Mg-Cu alloys, stress corrosion cracking (SCC) is a significant concern, particularly under tensile stress in corrosive environments. The mechanism involves a combination of electrochemical behavior and dislocation dynamics. In these alloys, the presence of precipitates, such as η-phase (MgZn2), plays a key role in the SCC process. Dislocations interact with these precipitates, leading to localized strain accumulation and electrochemical potential differences at the interface, which can promote the initiation of cracks. The precipitate-matrix interface acts as a weak point where corrosion can propagate, especially in chloride-rich environments. The dislocation-aided electrochemical interactions at these interfaces accelerate crack growth by facilitating the penetration of corrosive agents, ultimately reducing the alloy’s mechanical integrity under stress. Understanding these interactions is crucial for improving the corrosion resistance and fracture toughness of Al-Zn-Mg-Cu alloys in high-performance applications.</p>
 
 <p align="center">
-  <img src="/assets/research/extreme-environments-development-1.png" alt="TRT Principle" width="600">
+  <img src="/assets/research/extreme-environments-1.png" alt="TRT Principle" width="600">
 </p>
 
 <h3>Representative Publications and Presentations</h3>
