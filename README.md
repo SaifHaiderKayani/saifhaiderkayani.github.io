@@ -60,8 +60,6 @@
 
 </div>
 
-<h1 style="margin-top:30px;"><b>Resume</b></h1>
-
 <h2>Education</h2>
 
 - <p align="justify">Ph.D., Advanced Materials Engineering <i>(Aug 2020)</i> <br/>
