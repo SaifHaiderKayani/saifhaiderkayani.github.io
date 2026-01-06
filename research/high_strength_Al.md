@@ -15,19 +15,19 @@ title: High-Strength Aluminum Alloys
 
 <h3>Microstructure Evolution in High-Strength Aluminum Alloys</h3>
 
-<p align="justify">TThe processing of high-strength aluminum alloys plays a critical role in determining their microstructure and, consequently, their mechanical properties. A quantitative microstructure analysis reveals the impact of various processing steps:</br>
+<p align="justify">TThe processing of high-strength aluminum alloys plays a critical role in determining their microstructure and, consequently, their mechanical properties. A quantitative microstructure analysis reveals the impact of various processing steps:</p>
 
-<b>Casting:</b> The as-cast microstructure consists of equiaxed grains with random grain orientation, and the grain boundary features large grains with a few sub-grains. Billet casting offers better grain refinement and less segregation of secondary phases compared to other casting methods.
+<p align="justify"><b>Casting:</b> The as-cast microstructure consists of equiaxed grains with random grain orientation, and the grain boundary features large grains with a few sub-grains. Billet casting offers better grain refinement and less segregation of secondary phases compared to other casting methods.</p>
 
-<b>Homogenization:</b> Homogenization eliminates micro-segregation by modifying the morphology of insoluble particles. Performed at 450–500°C, this process refines the microstructure and reduces the size of secondary phases at dendritic interfaces. After homogenization at 450°C for 24 hours, the texture remains random, but sub-grains start to appear.
+<p align="justify"><b>Homogenization:</b> Homogenization eliminates micro-segregation by modifying the morphology of insoluble particles. Performed at 450–500°C, this process refines the microstructure and reduces the size of secondary phases at dendritic interfaces. After homogenization at 450°C for 24 hours, the texture remains random, but sub-grains start to appear.</p>
 
-<b>Forming:</b> Extrusion induces crystallographic texture and anisotropy, transforming the grain structure into a pancake shape. Secondary particles break along the extruded direction, enhancing strength along the extrusion axis. This process results in high grain refinement and the presence of numerous sub-grains.
+<p align="justify"><b>Forming:</b> Extrusion induces crystallographic texture and anisotropy, transforming the grain structure into a pancake shape. Secondary particles break along the extruded direction, enhancing strength along the extrusion axis. This process results in high grain refinement and the presence of numerous sub-grains.</p>
 
-<b>Solution Treatment:</b> Solution treatment dissolves solute content at high temperatures, followed by rapid quenching to retain the solute at room temperature. The treatment dissolves fine particles but leaves coarse undissolved particles in the microstructure. The texture weakens slightly due to some static recrystallization during the treatment.
+<p align="justify"><b>Solution Treatment:</b> Solution treatment dissolves solute content at high temperatures, followed by rapid quenching to retain the solute at room temperature. The treatment dissolves fine particles but leaves coarse undissolved particles in the microstructure. The texture weakens slightly due to some static recrystallization during the treatment.</p>
 
-<b>Artificial Aging:</b> During aging, coarse undissolved and fine particles form, contributing to the alloy's strength. Aging treatments, typically conducted at low temperatures (100–250°C), do not significantly alter the grain structure, but precipitation evolution can be observed at the nanoscale.
+<p align="justify"><b>Artificial Aging:</b> During aging, coarse undissolved and fine particles form, contributing to the alloy's strength. Aging treatments, typically conducted at low temperatures (100–250°C), do not significantly alter the grain structure, but precipitation evolution can be observed at the nanoscale.</p>
 
-Each processing step plays a vital role in refining the microstructure, enhancing material properties, and controlling the precipitation behavior in high-strength aluminum alloys.</p>
+<p align="justify">Each processing step plays a vital role in refining the microstructure, enhancing material properties, and controlling the precipitation behavior in high-strength aluminum alloys.</p>
 
 <p align="center">
   <img src="/assets/research/high-strength-al-1.png" alt="TRT Principle" width="600">
