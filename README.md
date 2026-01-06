@@ -372,16 +372,16 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 <p align="justify" style="margin:0;">- ImageJ, iSolutionDT <i>(Expert user; Image analysis)</i><br/>
 <p align="justify" style="margin:0;">- Origin Pro <i>(Expert user; Graphing, Data Analysis, Curve Fitting, and Mathematical Function, etc.)</i><br/>
 
-<h3 style="margin-top:50px; margin-bottom:30px; color:#B0B0B0;">Copyright Notice</h3>
+<h3 style="margin-top:30px; margin-bottom:30px; text-align:center;">Copyright Notice</h3>
 
-<p style="font-size:0.95em; color:#B0B0B0; line-height:1.6; text-align:center;">
+<p style="font-size:1em; color:#B0B0B0; line-height:1.6; text-align:center;">
   © 2026 Saif Haider Kayani. All rights reserved.
 </p>
 
-<p style="font-size:0.95em; color:#B0B0B0; line-height:1.6; text-align:center;">
+<p style="font-size:1em; color:#B0B0B0; line-height:1.6; text-align:center;">
   All content, images, research materials, and other intellectual property on this repository are protected by copyright. Reuse or reproduction is allowed only with explicit permission or under the terms specified in the license below.
 </p>
 
-<p style="font-size:0.95em; color:#B0B0B0; line-height:1.6; text-align:center;">
+<p style="font-size:1em; color:#B0B0B0; line-height:1.6; text-align:center;">
   For inquiries, please contact: <a href="mailto:saifkayani@gnu.ac.kr" style="color:#B0B0B0;">saifkayani@gnu.ac.kr</a>.
 </p>
