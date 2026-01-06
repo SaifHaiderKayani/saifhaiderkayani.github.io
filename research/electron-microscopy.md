@@ -10,7 +10,7 @@ title: Advanced Electron Microscopy
 <p align="justify">Recycled aluminum alloys often contain elevated Fe and Si, which promotes the formation of Fe–Si–rich intermetallic compounds that degrade ductility and reduce strength-elongation synergy. Melt Thermal Rate Treatment (TRT) addresses this challenge by controlling the melt’s thermal history to increase solute dissolution and improve chemical homogeneity prior to solidification. As a result, Fe–Si–rich intermetallics are refined and more uniformly distributed, while the matrix consists of a more supersaturated and uniform solute state. Consequently, an enhanced precipitation hardening during subsequent aging and translates into higher and more reliable mechanical performance, making TRT a practical pathway for upgrading high-recycled-content aluminum alloys.</p>
 
 <p align="center">
-  <img src="/assets/research/sustainable-alloys-development.png" alt="Microstructural refinement, improved age-hardenability and mechcanical properties by melt thermal rate treatment in Al-Si-Mg alloys" width="600">
+  <img src="/assets/research/electron-microscopy.png" alt="Advanced Electron Microscopy" width="600">
 </p>
 
 <h3>Principle of Thermal rate treatment during melting</h3>
@@ -23,11 +23,21 @@ title: Advanced Electron Microscopy
 
 <h3>Representative Publications and Presentations</h3>
 
-<p align="justify">- High Strength Aluminum Alloys Design via Explainable Artificial Intelligence. <br/>
-Seobin Park†, <b>Saif Haider Kayani†</b>, Kwangjun Euh, Eunhyeok Seo, Hayeol Kim, Sangeun Park, Bishnu Nand Yadav, Seong Jin Park, Hyokyung Sung, Im Doo Jung <br/>
-<i>Journal of Alloys and Compounds 903 (2022) 163828</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838822002195"> DOI</a>
+<p align="justify">- Direct observation of chemical short-range order in 25 wt% Mn steel via transmission electron microscopy. <br/>
+<b>Saif Haider Kayani</b>, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung <br/>
+<i>Scripta Materialia 213 (2022) 114642</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1359646222001427"> DOI</a>
 
-<p align="justify">- Data-driven design of Al–Fe alloys for laser powder bed fusion to enhance recycled aluminum utilization. <br/>
-Abdul Wahid Shah, Jabir Ali Siddique, Umar Daraz, <b>Saif Haider Kayani</b>, Javed Hussain, Ghulam Mudassir, Kang Wang, Wenfeng Li <br/>
-<i>Journal of Alloys and Compounds 1039 (2025) 183278</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2025.183278"> DOI</a>
+<p align="justify">- The influence of chemical short-range order on the nanoindentation properties of high-entropy alloys prepared via laser powder bed fusion. <br/>
+Shuai Guo, Meng Wang, Qian Wang, Shang Sui, <b>Saif Haider Kayani</b>, Jae Bok Seol, Pengcheng Zhu, Anfu Guo, Xin Lin, Weidong Huan <br/>
+<i>Materials Characterization 207 (2024) 113560</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1044580323009191"> DOI</a>     
 
+<p align="justify">- Crystallographic characterization of Al18Mg3Ti2 intermetallic phase in Al–Zn–Mg–Cu–Zr–Ti alloy. <br/>
+Sang-Hwa Lee, <b>Saif Haider Kayani</b>, Jae-Gil Jung, Sung-Il Baek, Min-Seok Kim, Young-Kook Lee, Kwangjun Euh <br/>
+<i>Journal of Alloys and Compounds 844 (2020) 156173</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838820325378"> DOI</a> 
+
+<p align="justify">- Atomic structure of β″ precipitates in high-Si containing Al-Si-Mg alloy. <br/>
+<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <i>(under review)</i> <br/>
+
+<p align="justify">- Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
+<b>Saif Haider Kayani</b>, Jung-Moo Lee, Kwangjun Euh, Dongwon Shin, Young-Hee Cho, Gang Sha <br/>
+<i>The 23rd Conference on International Exchange of Professionals, 2025</i>.<br/> 
