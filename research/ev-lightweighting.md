@@ -23,11 +23,11 @@ title: Lightweight Materials for Electric Vehicles
 
 <h3>Representative Publications and Presentations</h3>
 
-<p align="justify"> 5. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment. <br/>
+<p align="justify">- Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment. <br/>
 <b>Saif Haider Kayani†</b>, Tae-Min Koo†, Soo-Bae Kim, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <br/>
 <i>Materials Science and Engineering A 939 (2025) 148503</i>.<br/> <a href="https://doi.org/10.1016/j.msea.2025.148503"> DOI</a> 
 
-<p align="justify"> 7. Effect of as-cast microstructure on precipitation behavior and thermal conductivity of T5-treated Al-7Si-0.35Mg alloy. <br/>
+<p align="justify">- Effect of as-cast microstructure on precipitation behavior and thermal conductivity of T5-treated Al-7Si-0.35Mg alloy. <br/>
 <b>Saif Haider Kayani†</b>, Seung-Uk Lee†, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho <br/>
 <i>Journal of Alloys and Compounds 976 (2023) 173004</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838823043074"> DOI</a> 
 
