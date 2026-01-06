@@ -15,7 +15,7 @@ title: High-Strength Aluminum Alloys
 
 <h3>Microstructure Evolution in High-Strength Aluminum Alloys</h3>
 
-<p align="justify">TThe processing of high-strength aluminum alloys plays a critical role in determining their microstructure and, consequently, their mechanical properties. A quantitative microstructure analysis reveals the impact of various processing steps:</p>
+<p align="justify">The processing of high-strength aluminum alloys plays a critical role in determining their microstructure and, consequently, their mechanical properties. A quantitative microstructure analysis reveals the impact of various processing steps:</p>
 
 <p align="justify"><b>Casting:</b> The as-cast microstructure consists of equiaxed grains with random grain orientation, and the grain boundary features large grains with a few sub-grains. Billet casting offers better grain refinement and less segregation of secondary phases compared to other casting methods.</p>
 
