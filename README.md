@@ -60,7 +60,7 @@
 
 </div>
 
-<h1 style="margin-top:30px;"><b>Résumé</b></h1>
+<h1 style="margin-top:30px;"><b>Resume</b></h1>
 
 <h2>Education</h2>
 
