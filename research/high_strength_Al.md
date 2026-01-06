@@ -1,5 +1,3 @@
-# High-Strength Aluminum Alloys
-
 ---
 layout: default
 title: High-Strength Aluminum Alloys
