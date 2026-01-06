@@ -4,7 +4,7 @@
 
 <h2 style="margin-top:30px; margin-bottom:30px;">Research Highlights</h2>
 
-<p style="margin-top:-10px; margin-bottom:20px; font-size:0.95em; color:#555;">
+<p style="margin-top:-10px; margin-bottom:20px; font-size:0.95em; color:#3a6ea5;">
   Click a research highlight to learn more.
 </p>
 
