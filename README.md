@@ -4,6 +4,10 @@
 
 <h2 style="margin-top:30px; margin-bottom:30px;">Research Highlights</h2>
 
+<p style="margin-top:-10px; margin-bottom:20px; font-size:0.95em; color:#555;">
+  Click a research highlight to learn more.
+</p>
+
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:30px; margin-top:30px; margin-bottom:30px;">
 
   <a href="/research/sustainable-alloys-development.html" style="text-align:center; text-decoration:none; color:inherit;">
