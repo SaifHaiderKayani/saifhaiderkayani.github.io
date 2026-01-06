@@ -7,18 +7,10 @@ title: Microstructure Engineering
 
 <h3>Overview</h3>
 
-<p align="justify">Recycled aluminum alloys often contain elevated Fe and Si, which promotes the formation of Fe–Si–rich intermetallic compounds that degrade ductility and reduce strength-elongation synergy. Melt Thermal Rate Treatment (TRT) addresses this challenge by controlling the melt’s thermal history to increase solute dissolution and improve chemical homogeneity prior to solidification. As a result, Fe–Si–rich intermetallics are refined and more uniformly distributed, while the matrix consists of a more supersaturated and uniform solute state. Consequently, an enhanced precipitation hardening during subsequent aging and translates into higher and more reliable mechanical performance, making TRT a practical pathway for upgrading high-recycled-content aluminum alloys.</p>
+<p align="justify">Microstructural refinement in Al-Si-based alloys is critical for enhancing mechanical properties such as strength, toughness, and elastic modulus. The addition of inoculants plays a pivotal role in modifying the solidification process and refining the microstructure which not only promotes the formation of fine, uniform particles but also enhances the overall elastic modulus. This refinement leads to better control over phase distribution and enhances the alloy’s mechanical properties, including wear and fatigue resistance. The effectiveness of inoculants in controlling particle size and promoting desirable microstructural features underscores their importance in optimizing the performance of Al-Si alloys.</p>
 
 <p align="center">
-  <img src="/assets/research/sustainable-alloys-development.png" alt="Microstructural refinement, improved age-hardenability and mechcanical properties by melt thermal rate treatment in Al-Si-Mg alloys" width="600">
-</p>
-
-<h3>Principle of Thermal rate treatment during melting</h3>
-
-<p align="justify">TRT offers a simple and effective approach to enhancing solute homogeneity while minimizing casting defects. TRT involves superheating the molten alloy to approximately 250–300 °C above its liquidus temperature. This process significantly increases the thermal energy of the alloy, leading to the dissociation of ordered solute clusters into individual atoms. Following this superheating, the melt is maintained at the elevated temperature for a specified duration before undergoing rapid cooling. While the breakdown of solute clusters reduces the number of effective nucleation sites, it ensures that solute homogeneity is preserved up to the solidus temperature, resulting in fewer nucleation events during solidification.</p>
-
-<p align="center">
-  <img src="/assets/research/sustainable-alloys-development-1.png" alt="TRT Principle" width="600">
+  <img src="/assets/research/microstructure_refinement.png" alt="Microstructure Engineering" width="600">
 </p>
 
 <h3>Representative Publications and Presentations</h3>
