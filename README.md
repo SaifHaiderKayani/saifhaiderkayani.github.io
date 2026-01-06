@@ -16,7 +16,7 @@
     <div style="margin-top:8px; font-weight:600;">Sustainable Alloys Development</div>
   </a>
 
-  <a href="/research/high_strength_al.html" style="text-align:center; text-decoration:none; color:inherit;">
+  <a href="/research/high_strength_Al.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/high_strength_Al.png" alt="High-Strength Aluminum Alloys"
          style="width:100%; height:200px; object-fit:contain; background:#fff; border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">High-Strength Aluminum Alloys</div>
