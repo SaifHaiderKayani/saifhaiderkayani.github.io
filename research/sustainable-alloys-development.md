@@ -20,6 +20,21 @@ title: Sustainable Alloys Development
   <img src="/assets/research/sustainable-alloys-development-1.png" alt="TRT Principle" width="600">
 </p
 
-## Representative outputs
-- Paper / patent / project link
-- Figures or datasets (optional)
+## Representative Publications and Conference Presentations
+
+<p align="justify">- The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy. <br/>
+Sang-Ik Lee†, <b>Saif Haider Kayani†</b>, Yoon-Ho Lee, Byung-Joo Kim, Jung-Moo Lee, Je-In Lee, Kwangjun Euh, Young-Hee Cho <br/>
+<i>Journal of Materials Research and Technology 33 (2024) 2704-2717</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S2238785424021914"> DOI</a>
+
+<p align="justify">- Effect of Interdendritic Precipitations on the Mechanical Properties of GBF or EMS Processed Al-Zn-Mg-Cu Alloys. <br/>
+Sangeun Park, <b>Saif Haider Kayani</b>, Hyungrae Kim, Im Doo Jung, N.S. Reddy, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung <br/>
+<i>Crystals 11(10) (2021) 1162</i>.<br/> <a href="https://www.mdpi.com/2073-4352/11/10/1162"> DOI</a>
+
+<p align="justify">- Influence of Thermal-Rate Treatment on Precipitation Evolution and Mechanical Properties of Thermal-Rate Treated Al–10Si–0.35Mg Alloy. <br/>
+Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Young-Hee Cho <br/>
+<i> Light Metals 2025. TMS 2025. The Minerals, Metals & Materials Series. Springer, Cham.</i>.<br/> <a href=" https://doi.org/10.1007/978-3-031-80676-6_41"> DOI</a>
+
+<p align="justify">- Sustainable Development of Aluminum Alloys via Melt Thermal Rate Treatment. <br/>
+<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <br/>
+<i>The 8th International Conference on Electronic Materials and Nanotechnology for Green Environment, 2024</i>.<br/>
+
