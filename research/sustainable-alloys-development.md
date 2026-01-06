@@ -27,6 +27,10 @@ title: Sustainable Alloys Development
 Sang-Ik Lee†, <b>Saif Haider Kayani†</b>, Yoon-Ho Lee, Byung-Joo Kim, Jung-Moo Lee, Je-In Lee, Kwangjun Euh, Young-Hee Cho <br/>
 <i>Journal of Materials Research and Technology 33 (2024) 2704-2717</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S2238785424021914"> DOI</a>
 
+<p align="justify">- Melt thermal-rate treatment for uniform solute distribution and improved mechanical properties of an Al-Zn-Mg-Cu alloy prepared by direct-chill casting. <br/>
+Byung-Joo Kim, Su-Hyeon Kim, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Won-Kyoung Kim, Hyun-Seok Cheon, Jisu Kim, Young-Hee Cho <br/>
+<i>Journal of Alloys and Compounds 967 (2023) 171745</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1044580323009191"> DOI</a>  
+
 <p align="justify">- Effect of Interdendritic Precipitations on the Mechanical Properties of GBF or EMS Processed Al-Zn-Mg-Cu Alloys. <br/>
 Sangeun Park, <b>Saif Haider Kayani</b>, Hyungrae Kim, Im Doo Jung, N.S. Reddy, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung <br/>
 <i>Crystals 11(10) (2021) 1162</i>.<br/> <a href="https://www.mdpi.com/2073-4352/11/10/1162"> DOI</a>
