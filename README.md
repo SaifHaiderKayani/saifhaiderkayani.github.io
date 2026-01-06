@@ -249,7 +249,7 @@ Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, <b
 
 <p align="justify"> 34. Influence of Thermal-Rate Treatment on Precipitation Evolution and Mechanical Properties of Thermal-Rate Treated Al–10Si–0.35Mg Alloy.<br/>
 Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Young-Hee Cho<br/>
-<i>Light Metals 2025. TMS 2025. The Minerals, Metals & Materials Series. Springer, Cham.</i>.<br/> <a href="https://doi.org/10.1007/978-3-031-80676-6_41"> DOI</a>
+<i>Light Metals 2025. TMS 2025. The Minerals, Metals & Materials Series. Springer, Cham</i>.<br/> <a href="https://doi.org/10.1007/978-3-031-80676-6_41"> DOI</a>
 
 <h3>Under submission</h3>
 
