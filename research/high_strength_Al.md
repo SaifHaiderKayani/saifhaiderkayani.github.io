@@ -23,19 +23,26 @@ title: High-Strength Aluminum Alloys
 
 <h3>Representative Publications and Presentations</h3>
 
-<p align="justify">- The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy. <br/>
-Sang-Ik Lee†, <b>Saif Haider Kayani†</b>, Yoon-Ho Lee, Byung-Joo Kim, Jung-Moo Lee, Je-In Lee, Kwangjun Euh, Young-Hee Cho <br/>
-<i>Journal of Materials Research and Technology 33 (2024) 2704-2717</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S2238785424021914"> DOI</a>
+<p align="justify">- High Strength Aluminum Alloys Design via Explainable Artificial Intelligence. <br/>
+Seobin Park†, <b>Saif Haider Kayani†</b>, Kwangjun Euh, Eunhyeok Seo, Hayeol Kim, Sangeun Park, Bishnu Nand Yadav, Seong Jin Park, Hyokyung Sung, Im Doo Jung <br/>
+<i>Journal of Alloys and Compounds 903 (2022) 163828</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838822002195"> DOI</a>
 
-<p align="justify">- Effect of Interdendritic Precipitations on the Mechanical Properties of GBF or EMS Processed Al-Zn-Mg-Cu Alloys. <br/>
-Sangeun Park, <b>Saif Haider Kayani</b>, Hyungrae Kim, Im Doo Jung, N.S. Reddy, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung <br/>
-<i>Crystals 11(10) (2021) 1162</i>.<br/> <a href="https://www.mdpi.com/2073-4352/11/10/1162"> DOI</a>
+<p align="justify"> 13. Effect of Cooling Rate on Precipitation Behavior of Al–7.65Zn–2.59Mg–1.95Cu Alloy with Minor Elements of Zr and Ti. <br/>
+<b>Saif Haider Kayani</b>, Jae-Gil Jung, Min-Seok Kim, Kwangjun Euh <br/>
+<i>Metals and Materials International 26 (2020) 1079-1086</i>.<br/> <a href="https://link.springer.com/article/10.1007/s12540-019-00385-1"> DOI</a>
 
-<p align="justify">- Influence of Thermal-Rate Treatment on Precipitation Evolution and Mechanical Properties of Thermal-Rate Treated Al–10Si–0.35Mg Alloy. <br/>
-Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Young-Hee Cho <br/>
-<i> Light Metals 2025. TMS 2025. The Minerals, Metals & Materials Series. Springer, Cham.</i>.<br/> <a href=" https://doi.org/10.1007/978-3-031-80676-6_41"> DOI</a>
+<p align="justify"> 25. The role of prestraining on mechanical properties and microstructure of preaged AA 6016 Al-Mg-Si sheets-chill casting. <br/>
+MinCui, <b>Saif Haider Kayani</b>, Hyoung-Wook Kim, Je-Hyun Lee <br/>
+<i>Journal of Alloys and Compounds 960 (2023) 170681</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838823019849"> DOI</a>  
 
-<p align="justify">- Sustainable Development of Aluminum Alloys via Melt Thermal Rate Treatment. <br/>
-<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <br/>
-<i>The 8th International Conference on Electronic Materials and Nanotechnology for Green Environment, 2024</i>.<br/>
+<p align="justify"> 27. Effects of Cu additions on the precipitation activation energy and mechanical properties of prestrained Al–Mg–Si alloys. <br/>
+MinCui, Yong Hee Jo, <b>Saif Haider Kayani</b>, Hyoung-Wook Kim, Je-Hyun Lee <br/>
+<i>Journal of Materials Research and Technology 20 (2022) 2629-2637</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S223878542201270"> DOI</a> 
+
+<p align="justify"> 12. Effect of solution treatment on microstructure and mechanical behavior of precipitation-hardened Al-Zn-Mg-Cu alloy. <br/>
+<b>Saif Haider Kayani</b>, Jae Bok Seol, Jung Gi Kim, Kwangjun Euh, Hyokyung Sung <br/>
+<i>30th International Symposium on Technology of Plasticity, 2021</i>.<br/>
+
+
+
 
