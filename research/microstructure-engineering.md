@@ -13,7 +13,11 @@ title: Microstructure Engineering
   <img src="/assets/research/microstructure_refinement.png" alt="Microstructure Engineering" width="600">
 </p>
 
-<h3>Representative Publications and Presentations</h3>
+<h3>Representative Patent, Publications and Presentations</h3>
+
+<p align="justify"> 1. High-elasticity aluminum alloy casting material. <i>(KOR)</i> <br/>
+Jung-Moo Lee, Young-Hee Cho, <b>Saif Haider Kayani</b>, Lee Yoon-Ho, Kim Dong-Woo, Lee Sang-ik. <br/>
+Registered. (2024)<br/>                                                                
 
 <p align="justify">- Microstructural refinement in a high Elastic Modulus Al-18Si-8Ni casting alloy. <br/>
 Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, Jae-Il Jang, Young-Hee Cho <br/>
