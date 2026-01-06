@@ -19,7 +19,7 @@ title: Sustainable Alloys Development
 
 <p align="center">
   <img src="/assets/research/sustainable-alloys-development-1.png" alt="TRT Principle" width="600">
-</p
+</p>
 
 <h2>Representative Publications and Conference Presentations</h2>
 
