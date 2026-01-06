@@ -372,3 +372,12 @@ Guest Editor—Microstructure and Mechanical Behaviour of Structural Materials (
 <p align="justify" style="margin:0;">- ImageJ, iSolutionDT <i>(Expert user; Image analysis)</i><br/>
 <p align="justify" style="margin:0;">- Origin Pro <i>(Expert user; Graphing, Data Analysis, Curve Fitting, and Mathematical Function, etc.)</i><br/>
 
+
+
+## Copyright Notice
+
+© 2026 Saif Haider Kayani. All rights reserved.
+
+All content, images, research materials, and other intellectual property on this repository are protected by copyright. Reuse or reproduction is allowed only with explicit permission or under the terms specified in the license below.
+
+For inquiries, please contact: [saifkayani@gnu.ac.kr](mailto:saifkayani@gnu.ac.kr).
