@@ -13,7 +13,7 @@ title: High-Strength Aluminum Alloys
   <img src="/assets/research/high_strength_Al.png" alt="high_strength_Al" width="600">
 </p>
 
-<h3>Principle of Thermal rate treatment during melting</h3>
+<h3>Microstructure Evolution in High-Strength Aluminum Alloys</h3>
 
 <p align="justify">TThe processing of high-strength aluminum alloys plays a critical role in determining their microstructure and, consequently, their mechanical properties. A quantitative microstructure analysis reveals the impact of various processing steps:</br>
 
