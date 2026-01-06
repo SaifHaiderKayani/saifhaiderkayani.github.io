@@ -3,7 +3,7 @@ layout: default
 title: Sustainable Alloys Development
 ---
 
-<h1>Sustainable Alloy Design</h1>
+<h1>Sustainable Alloys Development</h1>
 
 <h3>Overview</h3>
 
