@@ -8,7 +8,7 @@
   Click a research highlight to learn more.
 </p>
 
-<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:30px; margin-top:30px; margin-bottom:30px; background-color:#d3d3d3">
+<div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:30px; margin-top:30px; margin-bottom:30px; color:#d3d3d3">
 
   <a href="/research/sustainable-alloys-development.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/sustainable-alloys-development.png" alt="Sustainable Alloys Development"
