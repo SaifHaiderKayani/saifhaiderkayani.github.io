@@ -9,7 +9,6 @@
 </p>
 
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:30px; margin-top:30px; margin-bottom:30px;">
-<div style="background: linear-gradient(45deg, #a9a9a9, #d3d3d3);">
 
   <a href="/research/sustainable-alloys-development.html" style="text-align:center; text-decoration:none; color:inherit;">
     <img src="/assets/research/sustainable-alloys-development.png" alt="Sustainable Alloys Development"
