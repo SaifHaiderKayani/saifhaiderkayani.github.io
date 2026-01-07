@@ -60,16 +60,7 @@
 
 </div>
 
-<h2>Education</h2>
-
-- <p align="justify">Ph.D., Advanced Materials Engineering <i>(Aug 2020)</i> <br/>
-  University of Science and Technology, South Korea  					       		
-- <p align="justify">M.S., Materials Engineering & Nanotechnology <i>(June 2015)</i> <br/>
-  GIK Institute of Engineering Sciences and Technology, Pakistan			        		
-- <p align="justify">B.S., Metallurgy and Materials Engineering <i>(Sep 2012)</i> <br/>
-  Baha-Ud-Din Zakriya University, Pakistan
-
-<h2> Work Experience </h2>
+<h2> Professional Experience </h2>
 
 <h3> Post-doctoral Fellow @ Nanjing university of Science and Technology <i>(Sep 2025 - Present)</i> </h3>
 - <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
@@ -96,6 +87,15 @@
 - <p align="justify"> Support faculty in experimental research, data collection, and analysis; assist in lecture preparation, grading, and conducting laboratory courses. </p>
 - <p align="justify"> Manage laboratory operations, including setup, organization, and maintenance of equipment, ensuring safety compliance, organizing departmental events. </p>
 
+<h2>Education</h2>
+
+- <p align="justify">Ph.D., Advanced Materials Engineering <i>(Aug 2020)</i> <br/>
+  University of Science and Technology, South Korea  					       		
+- <p align="justify">M.S., Materials Engineering & Nanotechnology <i>(June 2015)</i> <br/>
+  GIK Institute of Engineering Sciences and Technology, Pakistan			        		
+- <p align="justify">B.S., Metallurgy and Materials Engineering <i>(Sep 2012)</i> <br/>
+  Baha-Ud-Din Zakriya University, Pakistan </p>
+  
 <h2> Projects </h2>
 
 <h3 align="justify"> Development of low-carbon aluminum alloy with simultaneous implementation of multiple characteristics and greenhouse gas reduction of over 40% based on high-efficiency electric arc melting. <i>(2024 - 2027)</i> </h3>
