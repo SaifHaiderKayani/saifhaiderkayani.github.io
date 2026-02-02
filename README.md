@@ -255,8 +255,8 @@ Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Yo
 <b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <i>(under review)</i> <br/>
 <p align="justify"> 35. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
 <b>Saif Haider Kayani</b>, Dongwon Shin, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <i>(under submission)</i> <br/>
-<p align="justify"> 36. Effect of G phase on thermal hardenability of Duplex stainless steels. <br/>
-Boxia Zhang, <b>Saif Haider Kayani</b>, Shilei Li, Jian Yin, Gang Sha <i>(under submission)</i> <br/>
+<p align="justify"> 36. Effects of solution treatment on spinodal decomposition, G phase precipitation, and hardening of a Duplex stainless steels. <br/>
+Boxia Zhang, Shilei Li, Jian Yin, <b>Saif Haider Kayani</b>, Gang Sha <i>(under submission)</i> <br/>
 
 <h2>Conference Talks</h2> 
 
