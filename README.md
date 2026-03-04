@@ -120,9 +120,9 @@
 
 <h2> Patents </h2>
 
-<p align="justify"> 1. High-elasticity aluminum alloy casting material. <i>(KOR)</i> <br/>
+<p align="justify"> 1. Aluminum cast alloys with high elasticity. <i>(KOR)</i> <br/>
 Jung-Moo Lee, Young-Hee Cho, <b>Saif Haider Kayani</b>, Lee Yoon-Ho, Kim Dong-Woo, Lee Sang-ik. <br/>
-Registered. (2024)<br/>                                                                
+Application No. 1020230082140. (2024)<br/>                                                                
 <p align="justify"> 2. Manufacturing method of micro-pillar aluminum alloy specimens for physical properties evaluation and micro-pillar aluminum alloy specimens for physical properties. <i>(KOR)</i><br/>
 Hyokyung Sung, Jae Bok Seol, Jung Gi Kim, Sangeun Park, <b>Saif Haider Kayani</b>, Je Hyun Lee.<br/>
 Application No. 1020230034478. (2023)<br/>                                              
