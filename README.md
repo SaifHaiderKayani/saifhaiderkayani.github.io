@@ -135,7 +135,7 @@ Application No. 1020230034479. (2023)<br/>
 <h3>Corresponding Author</h3>
 
 <p align="justify"> 1. Atomic structure of β″ precipitates in high-Si containing Al-Si-Mg alloy. <br/>
-<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <i>(under review)</i> <br/>
+<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <br/>
 <i>Applied Microscopy (2026) </i>.<br/>  
 <p align="justify"> 2. Impact of Intermetallic phase on pitting corrosion and high-temperature tensile properties of Al-Si-Cu-Ni alloys. <br/>
 <b>Saif Haider Kayani</b>, Heon-Young Ha, Byung-Joo Kim, Young-Hee Cho, Hyeon-Woo Son, Jung-Moo Lee <br/>
