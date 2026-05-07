@@ -257,12 +257,14 @@ Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Yo
 
 <h3>Under submission</h3>
 
-<p align="justify"> 36. Effects of solution treatment on spinodal decomposition, G phase precipitation, and hardening of a Duplex stainless steels. <br/>
-Boxia Zhang, Shilei Li, Jian Yin, <b>Saif Haider Kayani</b>, Gang Sha <i>(under review)</i> <br/>
+<p align="justify"> 36. Interdendritic intermetallics govern high-temperature tensile behavior in Al–Si–Mg casting alloys. <br/>
+<b>Saif Haider Kayani</b>, Young-Hee Cho, Abdul Wahid Shah, Gang Sha, Jung-Moo Lee <i>(under review)</i> <br/>
 <p align="justify"> 37. A repurposed equilibrium phase for high-temperature strengthening via spatial confinement. <br/>
 Daeun Jung <b>Saif Haider Kayani</b>, Juyeon Han, Hyunjoo Choi, Kisub Cho, Won-Seok Ko, Sangyul Ha, Jae Bok Seol, Hyokyung Sung <i>(under review)</i> <br/>
 <p align="justify"> 38. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
 <b>Saif Haider Kayani</b>, Dongwon Shin, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <i>(under submission)</i> <br/>
+<p align="justify"> 39. Effects of solution treatment on spinodal decomposition, G phase precipitation, and hardening of a Duplex stainless steels. <br/>
+Boxia Zhang, Shilei Li, Jian Yin, <b>Saif Haider Kayani</b>, Gang Sha <i>(under submission)</i> <br/>
 
 <h2>Conference Talks</h2> 
 
