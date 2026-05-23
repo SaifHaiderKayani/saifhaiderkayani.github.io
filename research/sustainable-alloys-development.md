@@ -3,7 +3,7 @@ layout: default
 title: Sustainable Alloys Development
 ---
 
-<h1>High-Fe Casting Al Alloys</h1>
+<h1>High-Fe containing Al Casting Alloys</h1>
 
 <h3>Overview</h3>
 
@@ -21,7 +21,7 @@ title: Sustainable Alloys Development
   <img src="/assets/research/sustainable-alloys-development-1.png" alt="TRT Principle" width="600">
 </p>
 
-<h1>High-Fe Wrought Al Alloys</h1>
+<h1>High-Fe containing Wrought Al Alloys</h1>
 
 <h3>Overview</h3>
 
