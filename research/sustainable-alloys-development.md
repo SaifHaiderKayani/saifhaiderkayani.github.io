@@ -28,7 +28,7 @@ title: Sustainable Alloys Development
 <p align="justify">Fe accumulation is one of the major barriers to recycling wrought Al alloys because Fe has very limited solubility in Al and forms brittle Fe-rich intermetallics that promote strain localization, cracking, and premature fracture. We developed deformation-assisted semi-solid rolling (D-SSR) as a route to improve Fe tolerance in Al–Si–Cu–Mg alloys by modifying the morphology and distribution of β-Al₅FeSi intermetallics. Through partial remelting and rolling deformation, D-SSR fragments and redistributes brittle Fe-rich phases, reducing their damage severity and improving deformation tolerance. This strategy provides a pathway toward recycled high-Fe wrought Al alloys with improved mechanical reliability.</p>
 
 <p align="center">
-  <img src="/assets/research/sustainable-alloys-development.png" alt="Microstructural refinement, improved age-hardenability and mechcanical properties by melt thermal rate treatment in Al-Si-Mg alloys" width="600">
+  <img src="/assets/research/sustainable-alloys-development-2.png" alt="D-SSR" width="600">
 </p>
 
 <h3>Representative Publications and Presentations</h3>
