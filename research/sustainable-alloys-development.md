@@ -34,7 +34,7 @@ title: Sustainable Alloys Development
 <h3>Representative Publications and Presentations</h3>
 
 <p align="justify">- Mitigating Fe-rich intermetallic embrittlement in Al–Si–Cu–Mg alloys by deformation-assisted semi-solid rolling.
-Sun-Woo Park†, Saif Haider Kayani†, Ji-Wook Park, Mi-Young Lee, JaeHwang Kim <br/>
+Sun-Woo Park†, <b>Saif Haider Kayani†</b>, Ji-Wook Park, Mi-Young Lee, JaeHwang Kim <br/>
 <i>Journal of Alloys and Compounds 1065 (2026) 188238.</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2026.188238"> DOI</a>
 
 <p align="justify">- The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy. <br/>
