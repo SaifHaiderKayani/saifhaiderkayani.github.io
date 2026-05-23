@@ -3,7 +3,17 @@ layout: default
 title: Advanced Electron Microscopy
 ---
 
-<h1>Advanced Electron Microscopy</h1>
+<h1>β″-Eye in Al-Si-Mg alloy</h1>
+
+<h3>Overview</h3>
+
+<p align="justify">The strength of precipitation-hardened Al–Si–Mg alloys primarily derives from the nanoscale coherent β″ precipitates, which are the dominant contributors to strengthening under peak-aged conditions. Observing these nanoscale precipitates via TEM is particularly challenging due to their strict orientation relationship with the matrix and the subtle atomic number differences between Al, Si, and Mg. In this study, we investigate the precipitation behavior of a high-Si Al–Si–Mg alloy through a comprehensive and systematic microstructural analysis. We demonstrate that the key strengthening mechanism in the peak-aged alloy is the high number density of nanoscale β″ precipitates. The atomic structure of the β″ phase is revealed using HR-TEM, HAADF, and LAADF imaging along the < 010 > Al zone axis. HR-TEM provides clear reflections in the FFT, facilitating effective observation and identification of the β″ phase. Additionally, LAADF imaging proves particularly useful in resolving the atomic structure of the β″ phase. These precipitates display an eye-like morphology, with four Mg and Si atoms arranged in a rim and a central Mg/Al atom, forming a long-range ordered structure. This detailed characterization offers valuable insights into the contribution of β″ precipitates to the alloy’s age-hardening behavior.</p>
+
+<p align="center">
+  <img src="/assets/research/electron-microscopy.png" alt="Advanced Electron Microscopy" width="600">
+</p>
+
+<h1>Chemical Short Range Ordering in High-Mn Steels</h1>
 
 <h3>Overview</h3>
 
