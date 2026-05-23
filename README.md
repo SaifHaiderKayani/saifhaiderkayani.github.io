@@ -154,7 +154,7 @@ Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, 
 
 <p align="justify"> 5.	Mitigating Fe-rich intermetallic embrittlement in Al–Si–Cu–Mg alloys by deformation-assisted semi-solid rolling. <br/>
 Sun-Woo Park†, <b>Saif Haider Kayani†</b>, Ji-Wook Park, Mi-Young Lee, JaeHwang Kim <br/>
-<i>Journal of Alloys and Compounds (2026) 188238</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2026.188238"> DOI</a> 
+<i>Journal of Alloys and Compounds 1065 (2026) 188238</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2026.188238"> DOI</a> 
 <p align="justify"> 6. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment. <br/>
 <b>Saif Haider Kayani†</b>, Tae-Min Koo†, Soo-Bae Kim, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <br/>
 <i>Materials Science and Engineering A 939 (2025) 148503</i>.<br/> <a href="https://doi.org/10.1016/j.msea.2025.148503"> DOI</a> 
