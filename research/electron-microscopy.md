@@ -25,6 +25,10 @@ title: Advanced Electron Microscopy
 
 <h3>Representative Publications and Presentations</h3>
 
+<p align="justify">- Atomic structure of β″ precipitates in high-Si containing Al-Si-Mg alloy. <br/>
+<b>Saif Haider Kayani*</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <i>(under review)</i> <br/>
+<i>Applied Microscopy 58 (2026) 8</i>.<br/> <a href="https://doi.org/10.1186/s42649-026-00128-8"> DOI</a>
+  
 <p align="justify">- Direct observation of chemical short-range order in 25 wt% Mn steel via transmission electron microscopy. <br/>
 <b>Saif Haider Kayani</b>, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung <br/>
 <i>Scripta Materialia 213 (2022) 114642</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1359646222001427"> DOI</a>
@@ -36,9 +40,6 @@ Shuai Guo, Meng Wang, Qian Wang, Shang Sui, <b>Saif Haider Kayani</b>, Jae Bok S
 <p align="justify">- Crystallographic characterization of Al18Mg3Ti2 intermetallic phase in Al–Zn–Mg–Cu–Zr–Ti alloy. <br/>
 Sang-Hwa Lee, <b>Saif Haider Kayani</b>, Jae-Gil Jung, Sung-Il Baek, Min-Seok Kim, Young-Kook Lee, Kwangjun Euh <br/>
 <i>Journal of Alloys and Compounds 844 (2020) 156173</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838820325378"> DOI</a> 
-
-<p align="justify">- Atomic structure of β″ precipitates in high-Si containing Al-Si-Mg alloy. <br/>
-<b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <i>(under review)</i> <br/>
 
 <p align="justify">- Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
 <b>Saif Haider Kayani</b>, Jung-Moo Lee, Kwangjun Euh, Dongwon Shin, Young-Hee Cho, Gang Sha <br/>
