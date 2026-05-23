@@ -3,7 +3,7 @@ layout: default
 title: Lightweight Materials for Electric Vehicles
 ---
 
-<h1>Lightweight Materials for Electric Vehicles</h1>
+<h1>Solidification-Controlled Property Balance</h1>
 
 <h3>Overview</h3>
 
@@ -11,6 +11,16 @@ title: Lightweight Materials for Electric Vehicles
 
 <p align="center">
   <img src="/assets/research/ev-lightweighting.png" alt="Lightweight Materials for Electric Vehicles" width="600">
+</p>
+
+<h1>Precipitation Engineering in Automotive A356 Component</h1>
+
+<h3>Overview</h3>
+
+<p align="justify">Aluminum alloys, particularly Al-Si-Mg, are key materials for electric vehicles (EVs) due to their strength, light weight, and thermal efficiency. Both industry and research highlight the importance of microstructure control and heat treatment in optimizing strength, elongation, and thermal conductivity. The precipitation behavior during direct aging (T5) heat treatment significantly improves the strength-elongation synergy, enhancing both mechanical properties and formability. Additionally, controlling microstructure also improves thermal conductivity, which is crucial for efficient heat dissipation in EV battery systems and powertrains. By fine-tuning these factors, aluminum alloys can meet the demanding requirements for EV applications, offering a balance of performance, weight reduction, and thermal management.</p>
+
+<p align="center">
+  <img src="/assets/research/ev-lightweighting-1.png" alt="Lightweight Materials for Electric Vehicles" width="600">
 </p>
 
 <h3>Representative Publications and Presentations</h3>
