@@ -29,7 +29,7 @@
   </a>
 
   <a href="/research/extreme-environments.html" style="text-align:center; text-decoration:none; color:inherit;">
-    <img src="/assets/research/extreme-environments-2.png" alt="Materials for Extreme Environments"
+    <img src="/assets/research/extreme-environments.png" alt="Materials for Extreme Environments"
          style="width:100%; height:200px; object-fit:contain; background:linear-gradient(90deg, #f0f0f0, #fff); border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Materials for Extreme Environments</div>
   </a>
