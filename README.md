@@ -11,7 +11,7 @@
 <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:30px; margin-top:30px; margin-bottom:30px;">
 
   <a href="/research/sustainable-alloys-development.html" style="text-align:center; text-decoration:none; color:inherit;">
-    <img src="/assets/research/sustainable-alloys.png" alt="Sustainable Alloys Development"
+    <img src="/assets/research/sustainable-alloys-development-2.png" alt="Sustainable Alloys Development"
          style="width:100%; height:200px; object-fit:contain; background: linear-gradient(90deg, #f0f0f0, #fff); border:1px solid #e6e6e6; border-radius:8px; display:block; padding:6px; box-sizing:border-box;">
     <div style="margin-top:8px; font-weight:600;">Sustainable Alloys Development</div>
   </a>
