@@ -154,7 +154,7 @@ Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, 
 
 <p align="justify"> 5. Interdendritic intermetallics govern high-temperature tensile behavior in Al–Si–Mg casting alloys. <br/>
 <b>Saif Haider Kayani</b>, Young-Hee Cho, Abdul Wahid Shah, Gang Sha, Jung-Moo Lee <br/>
-<i>Materials Science and Engineering A (2026) 150658</i>.<br/> 
+<i>Materials Science and Engineering A 972 (202) 150658</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S092150932600938X?dgcid=coauthor"> DOI</a> 
 <p align="justify"> 6.	Mitigating Fe-rich intermetallic embrittlement in Al–Si–Cu–Mg alloys by deformation-assisted semi-solid rolling. <br/>
 Sun-Woo Park†, <b>Saif Haider Kayani†</b>, Ji-Wook Park, Mi-Young Lee, JaeHwang Kim <br/>
 <i>Journal of Alloys and Compounds 1065 (2026) 188238</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2026.188238"> DOI</a> 
