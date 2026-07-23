@@ -134,6 +134,9 @@ Application No. 1020230034479. (2023)<br/>
 
 <h3>Corresponding Author</h3>
 
+<p align="justify"> 39. Effects of solution treatment on spinodal decomposition, G phase precipitation, and hardening of a Duplex stainless steels. <br/>
+Boxia Zhang, Shilei Li, Jian Yin, <b>Saif Haider Kayani</b>, Gang Sha <br/>
+<i>Materials Characterization 240 (2026) 116804 </i>.<br/> <a href="10.1016/j.matchar.2026.116804"> DOI</a> 
 <p align="justify"> 1. Atomic structure of β″ precipitates in high-Si containing Al-Si-Mg alloy. <br/>
 <b>Saif Haider Kayani</b>, Sang-Ik Lee, Yoon-Ho Lee, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <br/>
 <i>Applied Microscopy 58 (2026) 8 </i>.<br/> <a href="https://doi.org/10.1186/s42649-026-00128-8"> DOI</a> 
@@ -264,8 +267,6 @@ Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Yo
 Daeun Jung <b>Saif Haider Kayani</b>, Juyeon Han, Hyunjoo Choi, Kisub Cho, Won-Seok Ko, Sangyul Ha, Jae Bok Seol, Hyokyung Sung <i>(under review)</i> <br/>
 <p align="justify"> 38. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
 <b>Saif Haider Kayani</b>, Dongwon Shin, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <i>(under submission)</i> <br/>
-<p align="justify"> 39. Effects of solution treatment on spinodal decomposition, G phase precipitation, and hardening of a Duplex stainless steels. <br/>
-Boxia Zhang, Shilei Li, Jian Yin, <b>Saif Haider Kayani</b>, Gang Sha <i>(under submission)</i> <br/>
 
 <h2>Conference Talks</h2> 
 
