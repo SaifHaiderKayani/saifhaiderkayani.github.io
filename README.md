@@ -161,111 +161,111 @@ Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Se-Jong Kim, 
 <p align="justify"> 8.	Mitigating Fe-rich intermetallic embrittlement in Al–Si–Cu–Mg alloys by deformation-assisted semi-solid rolling. <br/>
 Sun-Woo Park†, <b>Saif Haider Kayani†</b>, Ji-Wook Park, Mi-Young Lee, JaeHwang Kim <br/>
 <i>Journal of Alloys and Compounds 1065 (2026) 188238</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2026.188238"> DOI</a> 
-<p align="justify"> 8. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment. <br/>
+<p align="justify"> 9. Strength-elongation synergy via controlled precipitation hardening in counter pressure cast Al-7Si-0.35Mg casting alloy with T5 treatment. <br/>
 <b>Saif Haider Kayani†</b>, Tae-Min Koo†, Soo-Bae Kim, Jung-Moo Lee, Kwangjun Euh, Young-Hee Cho <br/>
 <i>Materials Science and Engineering A 939 (2025) 148503</i>.<br/> <a href="https://doi.org/10.1016/j.msea.2025.148503"> DOI</a> 
-<p align="justify"> 9. The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy. <br/>
+<p align="justify"> 10. The Effect of melt treatment on the precipitation behavior and mechanical properties of Direct-chilled cast Al-Si-Mg alloy. <br/>
 Sang-Ik Lee†, <b>Saif Haider Kayani†</b>, Yoon-Ho Lee, Byung-Joo Kim, Jung-Moo Lee, Je-In Lee, Kwangjun Euh, Young-Hee Cho <br/>
 <i>Journal of Materials Research and Technology 33 (2024) 2704-2717</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S2238785424021914"> DOI</a> 
-<p align="justify"> 10. Effect of as-cast microstructure on precipitation behavior and thermal conductivity of T5-treated Al-7Si-0.35Mg alloy. <br/>
+<p align="justify"> 11. Effect of as-cast microstructure on precipitation behavior and thermal conductivity of T5-treated Al-7Si-0.35Mg alloy. <br/>
 <b>Saif Haider Kayani†</b>, Seung-Uk Lee†, Kwangjun Euh, Jung-Moo Lee, Young-Hee Cho <br/>
 <i>Journal of Alloys and Compounds 976 (2023) 173004</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838823043074"> DOI</a> 
-<p align="justify"> 11. Pore formation mechanism and intermetallic phase transformation in Ti-Al alloy during reactive sintering. <br/>
+<p align="justify"> 12. Pore formation mechanism and intermetallic phase transformation in Ti-Al alloy during reactive sintering. <br/>
 <b>Saif Haider Kayani</b>, Min Cui, Rana Tariq Mehmood Ahmed, Young-Hee Cho, Jung-Moo Lee, Nho-Kwang Park, Hafiz Muhammad Salman Ajmal, Kwangjun Euh <br/>
 <i>Journal of Materials Research and Technology 22 (2023) 1878-1887</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S2238785422019469"> DOI</a>
-<p align="justify"> 12. Experimental and crystal plasticity finite element study of the deformation behavior of high-Mn steel micropillars. <br/>
+<p align="justify"> 13. Experimental and crystal plasticity finite element study of the deformation behavior of high-Mn steel micropillars. <br/>
 Sangyul Ha†, <b>Saif Haider Kayani†</b>, Kyungjun Lee, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung <br/>
 <i>Steel Research International 94 (2023) 2200254</i>.<br/> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/srin.202200254"> DOI</a>
-<p align="justify"> 13. Dislocation-aided electrochemical behavior of precipitates in stress corrosion cracking of Al–Zn–Mg–Cu alloys. <br/>
+<p align="justify"> 14. Dislocation-aided electrochemical behavior of precipitates in stress corrosion cracking of Al–Zn–Mg–Cu alloys. <br/>
 <b>Saif Haider Kayani</b>, Sangeun Park, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung <br/>
 <i>Materials characterization 190 (2022) 112019</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1044580322003011"> DOI</a>
-<p align="justify"> 14. Direct observation of chemical short-range order in 25 wt% Mn steel via transmission electron microscopy. <br/>
+<p align="justify"> 15. Direct observation of chemical short-range order in 25 wt% Mn steel via transmission electron microscopy. <br/>
 <b>Saif Haider Kayani</b>, Sangeun Park, Jung Gi Kim, Jae Bok Seol, Hyokyung Sung <br/>
 <i>Scripta Materialia 213 (2022) 114642</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1359646222001427"> DOI</a>
-<p align="justify"> 15. High Strength Aluminum Alloys Design via Explainable Artificial Intelligence. <br/>
+<p align="justify"> 16. High Strength Aluminum Alloys Design via Explainable Artificial Intelligence. <br/>
 Seobin Park†, <b>Saif Haider Kayani†</b>, Kwangjun Euh, Eunhyeok Seo, Hayeol Kim, Sangeun Park, Bishnu Nand Yadav, Seong Jin Park, Hyokyung Sung, Im Doo Jung <br/>
 <i>Journal of Alloys and Compounds 903 (2022) 163828</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838822002195"> DOI</a>
-<p align="justify"> 16. Effect of Cooling Rate on Precipitation Behavior of Al–7.65Zn–2.59Mg–1.95Cu Alloy with Minor Elements of Zr and Ti. <br/>
+<p align="justify"> 17. Effect of Cooling Rate on Precipitation Behavior of Al–7.65Zn–2.59Mg–1.95Cu Alloy with Minor Elements of Zr and Ti. <br/>
 <b>Saif Haider Kayani</b>, Jae-Gil Jung, Min-Seok Kim, Kwangjun Euh <br/>
 <i>Metals and Materials International 26 (2020) 1079-1086</i>.<br/> <a href="https://link.springer.com/article/10.1007/s12540-019-00385-1"> DOI</a>
-<p align="justify"> 17. Effect of Cr and Nb on the phase transformation and pore formation of Ti-Al base alloys. <br/>
+<p align="justify"> 18. Effect of Cr and Nb on the phase transformation and pore formation of Ti-Al base alloys. <br/>
 <b>Saif Haider Kayani</b>, Nho-Kwang Park <br/>
 <i>Journal of Alloys and Compounds 708 (2017) 308-315</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838817307740"> DOI</a>
-<p align="justify"> 18. Precipitation Behavior of Thermo-Mechanically Treated Ti50Ni20Au20Cu10 High-Temperature Shape-Memory Alloy. <br/>
+<p align="justify"> 19. Precipitation Behavior of Thermo-Mechanically Treated Ti50Ni20Au20Cu10 High-Temperature Shape-Memory Alloy. <br/>
 <b>Saif Haider Kayani</b>, M. Imran Khan, Fazal Ahmad Khalid, Hee Young Kim, Shuichi Miyazaki <br/>
 <i>Shape Memory and Superelasticity 2 (2016) 29-360</i>.<br/> <a href="https://link.springer.com/article/10.1007/s40830-015-0048-6"> DOI</a>
 
 <h3>Co-Author</h3> 
 
-<p align="justify"> 19. Role of Ni in High elastic modulus Al-Si-Ni alloys: Solidification and Microstructure evolution. <br/>
+<p align="justify"> 20. Role of Ni in High elastic modulus Al-Si-Ni alloys: Solidification and Microstructure evolution. <br/>
 Yoon-Ho Lee, <b>Saif Haider Kayani</b>, Jung-Moo Lee, Sang-Ik Lee, Young-Hee Cho <br/>
 <i>Materials Characterization 115768</i>.<br/> <a href="https://doi.org/10.1016/j.matchar.2025.115768"> DOI</a>
-<p align="justify"> 19. Effect of Initial microstructure on dynamic recrystallization behavior during creep deformation of modified Nimonic 80A alloy. <br/>
+<p align="justify"> 21. Effect of Initial microstructure on dynamic recrystallization behavior during creep deformation of modified Nimonic 80A alloy. <br/>
 Shaik Muhammad Ali, Hyungsoo Lee, Dae Won You, <b>Saif Haider Kayani</b>, Young-Soo You, Seo-Moon Seo, HiWon Jeong <br/>
 <i>Materials Science and Engineering A 149323</i>.<br/> <a href="https://doi.org/10.1016/j.msea.2025.149323"> DOI</a>
-<p align="justify"> 20. Data-driven design of Al–Fe alloys for laser powder bed fusion to enhance recycled aluminum utilization. <br/>
+<p align="justify"> 21. Data-driven design of Al–Fe alloys for laser powder bed fusion to enhance recycled aluminum utilization. <br/>
 Abdul Wahid Shah, Jabir Ali Siddique, Umar Daraz, <b>Saif Haider Kayani</b>, Javed Hussain, Ghulam Mudassir, Kang Wang, Wenfeng Li <br/>
 <i>Journal of Alloys and Compounds 1039 (2025) 183278</i>.<br/> <a href="https://doi.org/10.1016/j.jallcom.2025.183278"> DOI</a>
-<p align="justify"> 21. Effect of retrogression treatment on microstructure, mechanical properties, and corrosion behavior in Al-Zn-Mg-Cu alloy. <br/>
+<p align="justify"> 22. Effect of retrogression treatment on microstructure, mechanical properties, and corrosion behavior in Al-Zn-Mg-Cu alloy. <br/>
 Hyojin Hwang, Chang-Gi Lee, <b>Saif Haider Kayani</b>, Hyoung-Wook Kim, Je In Lee, Se-Ho Kim, Yong-Hee Jo <br/>
 <i>Journal of Materials Research and Technology 36 (2025) 10577-10590</i>.<br/> <a href="https://doi.org/10.1016/j.jmrt.2025.05.236"> DOI</a>
-<p align="justify"> 22. Solidification behavior and mechanical properties of a quaternary eutectic Al-Cu-Si-Mg alloy. <br/>
+<p align="justify"> 23. Solidification behavior and mechanical properties of a quaternary eutectic Al-Cu-Si-Mg alloy. <br/>
 Byung-Joo Kim, <b>Saif Haider Kayani</b>, Zhirou Zhang, Young-Hee Cho, Su-Hyeon Kim <br/>
 <i>Journal of Alloys and Compounds 1007 (2024) 176351</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838824029384"> DOI</a>
-<p align="justify"> 23. Formation and Evolution of Interfacial structure in Al-Si-Mg/Stainless steel Bimetals during hot-dipping process. <br/>
+<p align="justify"> 24. Formation and Evolution of Interfacial structure in Al-Si-Mg/Stainless steel Bimetals during hot-dipping process. <br/>
 Byung-Joo Kim, Ha-Yoon Lim, <b>Saif Haider Kayani</b>, Yun-Soo Lee, Su-Hyeon Kim, Joon-Hyeon Cha <br/>
 <i>Crystals 14(4) (2024) 387</i>.<br/> <a href="https://www.mdpi.com/2073-4352/14/4/387"> DOI</a>
-<p align="justify"> 24. Microscopic-plastic deformation behavior of grain boundary precipitates in an Al-Zn-Mg alloy. <br/>
+<p align="justify"> 25. Microscopic-plastic deformation behavior of grain boundary precipitates in an Al-Zn-Mg alloy. <br/>
 Sangyul Ha, <b>Saif Haider Kayani</b>, Kyungjun Lee, Suwon Park, Hyunjoo Choi, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung <br/>
 <i>Journal of Materials Research and Technology 30 (2024) 3420-3429</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S2238785424008172"> DOI</a>
-<p align="justify"> 25. The influence of chemical short-range order on the nanoindentation properties of high-entropy alloys prepared via laser powder bed fusion. <br/>
+<p align="justify"> 26. The influence of chemical short-range order on the nanoindentation properties of high-entropy alloys prepared via laser powder bed fusion. <br/>
 Shuai Guo, Meng Wang, Qian Wang, Shang Sui, <b>Saif Haider Kayani</b>, Jae Bok Seol, Pengcheng Zhu, Anfu Guo, Xin Lin, Weidong Huan <br/>
 <i>Materials Characterization 207 (2024) 113560</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1044580323009191"> DOI</a>     
-<p align="justify"> 26. Melt thermal-rate treatment for uniform solute distribution and improved mechanical properties of an Al-Zn-Mg-Cu alloy prepared by direct-chill casting. <br/>
+<p align="justify"> 27. Melt thermal-rate treatment for uniform solute distribution and improved mechanical properties of an Al-Zn-Mg-Cu alloy prepared by direct-chill casting. <br/>
 Byung-Joo Kim, Su-Hyeon Kim, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Won-Kyoung Kim, Hyun-Seok Cheon, Jisu Kim, Young-Hee Cho <br/>
 <i>Journal of Alloys and Compounds 967 (2023) 171745</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1044580323009191"> DOI</a>  
-<p align="justify"> 27. The role of prestraining on mechanical properties and microstructure of preaged AA 6016 Al-Mg-Si sheets-chill casting. <br/>
+<p align="justify"> 28. The role of prestraining on mechanical properties and microstructure of preaged AA 6016 Al-Mg-Si sheets-chill casting. <br/>
 MinCui, <b>Saif Haider Kayani</b>, Hyoung-Wook Kim, Je-Hyun Lee <br/>
 <i>Journal of Alloys and Compounds 960 (2023) 170681</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838823019849"> DOI</a>  
-<p align="justify"> 28. Microstructural Effects on J-Integral Fracture Toughness of Welded High-Mn Steels at 298 and 77 K. <br/>
+<p align="justify"> 29. Microstructural Effects on J-Integral Fracture Toughness of Welded High-Mn Steels at 298 and 77 K. <br/>
 Sangeun Park, <b>Saif Haider Kayani</b>, Eun Hye Park, Jung Gi Kim, Sangshik Kim, Hyokyung Sung, Jae Bok Seol <br/>
 <i>Steel Research International 94 (2023) 2200259</i>.<br/> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/srin.202200259"> DOI</a> 
-<p align="justify"> 29. Effects of Cu additions on the precipitation activation energy and mechanical properties of prestrained Al–Mg–Si alloys. <br/>
+<p align="justify"> 30. Effects of Cu additions on the precipitation activation energy and mechanical properties of prestrained Al–Mg–Si alloys. <br/>
 MinCui, Yong Hee Jo, <b>Saif Haider Kayani</b>, Hyoung-Wook Kim, Je-Hyun Lee <br/>
 <i>Journal of Materials Research and Technology 20 (2022) 2629-2637</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S223878542201270"> DOI</a> 
-<p align="justify"> 30. Effect of Interdendritic Precipitations on the Mechanical Properties of GBF or EMS Processed Al-Zn-Mg-Cu Alloys. <br/>
+<p align="justify"> 31. Effect of Interdendritic Precipitations on the Mechanical Properties of GBF or EMS Processed Al-Zn-Mg-Cu Alloys. <br/>
 Sangeun Park, <b>Saif Haider Kayani</b>, Hyungrae Kim, Im Doo Jung, N.S. Reddy, Kwangjun Euh, Jae Bok Seol, Jung Gi Kim, Hyokyung Sung <br/>
 <i>Crystals 11(10) (2021) 1162</i>.<br/> <a href="https://www.mdpi.com/2073-4352/11/10/1162"> DOI</a> 
-<p align="justify"> 31. Crystallographic characterization of Al18Mg3Ti2 intermetallic phase in Al–Zn–Mg–Cu–Zr–Ti alloy. <br/>
+<p align="justify"> 32. Crystallographic characterization of Al18Mg3Ti2 intermetallic phase in Al–Zn–Mg–Cu–Zr–Ti alloy. <br/>
 Sang-Hwa Lee, <b>Saif Haider Kayani</b>, Jae-Gil Jung, Sung-Il Baek, Min-Seok Kim, Young-Kook Lee, Kwangjun Euh <br/>
 <i>Journal of Alloys and Compounds 844 (2020) 156173</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S0925838820325378"> DOI</a> 
-<p align="justify"> 32. Mechanical properties and microstructure of rolled and electrodeposited thin copper foil. <br/>
+<p align="justify"> 33. Mechanical properties and microstructure of rolled and electrodeposited thin copper foil. <br/>
 Xiang-Qian Yin, Li-Jun Peng, <b>Saif Kayani</b>, Lei Cheng, Jian-Wei Wang, Wei Xiao, Li-Gen Wang, Guo-Jie Huang <br/>
 <i>Rare Metals 35 (2016) 909-914</i>.<br/> <a href="https://link.springer.com/article/10.1007/s12598-016-0806-4"> DOI</a>
-<p align="justify"> 33. n-InAs based photo-thermo-electrochemical cells for conversion of solar to electrical energy. <br/>
+<p align="justify"> 34. n-InAs based photo-thermo-electrochemical cells for conversion of solar to electrical energy. <br/>
 Zubair Ahmad, Khasan S. Karimov, Farid Touatia, M. Salman Ajmal, Taimoor Ali, <b>Saif Haider Kayani</b>, K. Kabutov, R. A. Shakoord, N. J. Al-Thanid <br/>
 <i>Journal of Electroanalytical Chemistry 775 (2016) 267-272</i>.<br/> <a href="https://www.sciencedirect.com/science/article/pii/S1572665716303009"> DOI</a>
 
 <h3>Editorials</h3> 
 
-<p align="justify"> 34. Microstructure and Mechanical behavior of Structural Materials: 2nd Edition. <br/>
+<p align="justify"> 35. Microstructure and Mechanical behavior of Structural Materials: 2nd Edition. <br/>
 <b>Saif Haider Kayani</b>, Byung-Joo Kim <br/>
 <i>Crystals 15(11) (2025) 997</i>.<br/> <a href="https://doi.org/10.3390/cryst15110997"> DOI</a>
-<p align="justify"> 35. Microstructure and Mechanical behavior of Structural Materials. <br/>
+<p align="justify"> 36. Microstructure and Mechanical behavior of Structural Materials. <br/>
 <b>Saif Haider Kayani</b>, Byung-Joo Kim <br/>
 <i>Crystals 14(12) (2024) 1076</i>.<br/> <a href="https://www.mdpi.com/2073-4352/14/12/1076"> DOI</a> 
 
 <h3>Conference proceedings</h3>
 
-<p align="justify"> 36. Influence of Thermal-Rate Treatment on Precipitation Evolution and Mechanical Properties of Thermal-Rate Treated Al–10Si–0.35Mg Alloy.<br/>
+<p align="justify"> 37. Influence of Thermal-Rate Treatment on Precipitation Evolution and Mechanical Properties of Thermal-Rate Treated Al–10Si–0.35Mg Alloy.<br/>
 Sang-Ik Lee, <b>Saif Haider Kayani</b>, Yoon-Ho Lee, Kwangjun Euh, Je-In Lee, Young-Hee Cho<br/>
 <i>Light Metals 2025. TMS 2025. The Minerals, Metals & Materials Series. Springer, Cham</i>.<br/> <a href="https://doi.org/10.1007/978-3-031-80676-6_41"> DOI</a>
 
 <h3>Under submission</h3>
 
-<p align="justify"> 37. A repurposed equilibrium phase for high-temperature strengthening via spatial confinement. <br/>
+<p align="justify"> 38. A repurposed equilibrium phase for high-temperature strengthening via spatial confinement. <br/>
 Daeun Jung <b>Saif Haider Kayani</b>, Juyeon Han, Hyunjoo Choi, Kisub Cho, Won-Seok Ko, Sangyul Ha, Jae Bok Seol, Hyokyung Sung <i>(under review)</i> <br/>
-<p align="justify"> 38. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
+<p align="justify"> 39. Vacancy-dragged Zr segregation at U1/Al interfaces in Al-Si-Mg cast alloy. <br/>
 <b>Saif Haider Kayani</b>, Dongwon Shin, Sang-Ik Lee, Yoon-Ho Lee, Kwangjun Euh, Young-Hee Cho <i>(under submission)</i> <br/>
 
 <h2>Conference Talks</h2> 
