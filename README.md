@@ -64,9 +64,13 @@
 
 <h3> Research Fellow @ Brunel University London <i>(July 2026 - Present)</i> </h3>
 <h4> Projects </h4>
-- <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
-- <p align="justify"> Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles. </p>
-- <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
+<h4 align="justify"> CLEANMAT: Smart Clean Aluminum Material Processing. <i>(2026 - 2029)</i> </h4>
+- Funding: $9.9M
+- Horizon EU Project 
+- Role: Participating Researcher 
+<h4> Activities </h4>
+- <p align="justify"> Develop ultra-low flux processing route for recycled Aluminum. </p>
+- <p align="justify"> Scale-up laboratory technologies toward pilot and industrial validation. </p>
 
 <h3> Post-doctoral Fellow @ Nanjing university of Science and Technology <i>(Sep 2025 - July 2026)</i> </h3>
 - <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
