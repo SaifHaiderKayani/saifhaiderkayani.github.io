@@ -1,6 +1,6 @@
 <h1> Materials Scientist </h1>
 
-#### Key Skills: Alloy Design, Microstructure, Deformation, Corrosion
+#### Core Skills: Physical Metallurgy, Metal Recycling, Advanced Characterization, Corrosion
 
 <h2 style="margin-top:30px; margin-bottom:30px;">Research Highlights</h2>
 
@@ -62,7 +62,13 @@
 
 <h2> Professional Experience </h2>
 
-<h3> Post-doctoral Fellow @ Nanjing university of Science and Technology <i>(Sep 2025 - Present)</i> </h3>
+<h3> Research Fellow @ Brunel University London <i>(July 2026 - Present)</i> </h3>
+<h4> Projects </h4>
+- <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
+- <p align="justify"> Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles. </p>
+- <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
+
+<h3> Post-doctoral Fellow @ Nanjing university of Science and Technology <i>(Sep 2025 - July 2026)</i> </h3>
 - <p align="justify"> Developing and managing funding proposals for individual research projects, coordinating cross-functional research initiatives, and overseeing research projects to ensure adherence to timelines and quality standards. </p>
 - <p align="justify"> Advanced characterization techniques training to develop innovative solutions through fundamental scientific principles. </p>
 - <p align="justify"> Publish research findings in reputable journals, present at conferences, and mentor graduate students and interns in research, publications, and thesis writing. </p>
