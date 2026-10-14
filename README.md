@@ -69,7 +69,7 @@
 - Horizon EU Project 
 - Role: Participating Researcher 
 <h4> Activities </h4>
-- <p align="justify"> Develop ultra-low flux processing route for recycled Aluminum. </p>
+- <p align="justify"> Develop ultra-low flux processing route for recycled Aluminum.
 - <p align="justify"> Scale-up laboratory technologies toward pilot and industrial validation. </p>
 
 <h3> Post-doctoral Fellow @ Nanjing university of Science and Technology <i>(Sep 2025 - July 2026)</i> </h3>
